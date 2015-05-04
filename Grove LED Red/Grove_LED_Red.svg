@@ -29,23 +29,23 @@
      id="namedview54"
      showgrid="true"
      units="mm"
-     inkscape:zoom="17.758291"
-     inkscape:cx="29.088478"
-     inkscape:cy="29.232125"
+     inkscape:zoom="10.196396"
+     inkscape:cx="18.001461"
+     inkscape:cy="20.238287"
      inkscape:window-x="-8"
      inkscape:window-y="1072"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer5"
      inkscape:snap-bbox="true"
      inkscape:snap-bbox-midpoints="false"
-     inkscape:snap-bbox-edge-midpoints="false"
+     inkscape:snap-bbox-edge-midpoints="true"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:bbox-nodes="false"
-     inkscape:snap-grids="false"
-     inkscape:snap-object-midpoints="true"
+     inkscape:snap-grids="true"
+     inkscape:snap-object-midpoints="false"
      inkscape:snap-intersection-paths="true"
-     inkscape:snap-center="true"
+     inkscape:snap-center="false"
      inkscape:snap-smooth-nodes="false"
      inkscape:object-nodes="false"
      inkscape:snap-midpoints="true"
@@ -65,6 +65,12 @@
        position="65.551181,33.661417"
        orientation="0,1"
        id="guide4582"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="38.265485,16.774016"
+       orientation="0,1"
+       id="guide4177"
        inkscape:label=""
        inkscape:color="rgb(0,0,255)" />
   </sodipodi:namedview>
@@ -98,7 +104,8 @@
      id="layer2"
      inkscape:label="Components"
      style="display:inline"
-     transform="translate(0,7.0866138)">
+     transform="translate(0,7.0866138)"
+     sodipodi:insensitive="true">
     <g
        style="display:inline"
        id="GroveLegs"
@@ -226,11 +233,11 @@
          id="color_ellipse26"
          style="opacity:0.25;fill:#e60000" />
       <polygon
-         points="5.763,14.167 8.668,11.048 3.867,11.048 2.991,11.661 2.991,16.355 3.714,16.355 3.714,14.167 "
+         points="3.714,14.167 5.763,14.167 8.668,11.048 3.867,11.048 2.991,11.661 2.991,16.355 3.714,16.355 "
          id="polygon28"
          style="fill:#666666" />
       <polygon
-         points="9.431,16.355 10.095,16.355 10.095,10.844 9.226,10.844 9.544,11.214 6.778,14.167 9.431,14.167 "
+         points="9.431,14.167 9.431,16.355 10.095,16.355 10.095,10.844 9.226,10.844 9.544,11.214 6.778,14.167 "
          id="polygon30"
          style="fill:#666666" />
       <path
@@ -281,75 +288,88 @@
      style="display:inline"
      sodipodi:insensitive="true">
     <text
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4px;line-height:125%;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';text-align:end;writing-mode:lr-tb;text-anchor:end;display:inline;fill:#ffffff"
-       font-size="3.2"
-       id="Label_GND"
-       y="36.991638"
-       x="-60.732506"
-       inkscape:label=""
-       sodipodi:linespacing="125%"
-       transform="matrix(0,-1,1,0,0,0)">GND</text>
-    <text
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4px;line-height:125%;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';text-align:end;writing-mode:lr-tb;text-anchor:end;display:inline;fill:#ffffff"
-       font-size="3.2"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4px;line-height:125%;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-66.513367"
+       y="44.079685"
        id="Label_NC2"
-       y="44.078251"
-       x="-60.732506"
-       inkscape:label=""
        sodipodi:linespacing="125%"
-       transform="matrix(0,-1,1,0,0,0)">
-      <tspan
+       transform="matrix(0,-1,1,0,0,0)"
+       inkscape:label=""><tspan
          sodipodi:role="line"
-         id="tspan4584"
-         x="-60.732506"
-         y="44.078251">NC</tspan>
-    </text>
+         id="tspan4189"
+         x="-66.513367"
+         y="44.079685"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4px;line-height:125%;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff">NC</tspan></text>
     <text
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4px;line-height:125%;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';text-align:end;writing-mode:lr-tb;text-anchor:end;display:inline;fill:#ffffff"
-       font-size="3.2"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4px;line-height:125%;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-66.513367"
+       y="51.166298"
        id="Label_NC1"
-       y="51.164864"
-       x="-60.732506"
-       inkscape:label=""
        sodipodi:linespacing="125%"
-       transform="matrix(0,-1,1,0,0,0)">NC</text>
+       transform="matrix(0,-1,1,0,0,0)"
+       inkscape:label=""><tspan
+         sodipodi:role="line"
+         id="tspan43"
+         x="-66.513367"
+         y="51.166298"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4px;line-height:125%;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff">NC</tspan></text>
     <text
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4px;line-height:125%;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';text-align:end;writing-mode:lr-tb;text-anchor:end;display:inline;fill:#ffffff"
-       font-size="3.2"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4px;line-height:125%;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-69.403992"
+       y="58.252914"
        id="Label_SIG"
-       y="58.251476"
-       x="-60.732506"
-       inkscape:label=""
        sodipodi:linespacing="125%"
-       transform="matrix(0,-1,1,0,0,0)">SIG</text>
+       transform="matrix(0,-1,1,0,0,0)"
+       inkscape:label=""><tspan
+         sodipodi:role="line"
+         id="tspan46"
+         x="-69.403992"
+         y="58.252914"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4px;line-height:125%;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff">SIG</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4px;line-height:125%;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-69.403992"
+       y="36.993073"
+       id="Label_GND"
+       sodipodi:linespacing="125%"
+       transform="matrix(0,-1,1,0,0,0)"
+       inkscape:label=""><tspan
+         sodipodi:role="line"
+         id="tspan4197"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4px;line-height:125%;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"
+         x="-69.403992"
+         y="36.993073">GND</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="Pins"
      transform="translate(0,7.0866138)"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <path
-       id="connector0pin"
+       id="connector1pin"
        d="m 57.580162,57.580081 -1.774496,0 0,-1.774335 1.774496,0 0,1.774335 z"
        inkscape:connector-curvature="0"
        style="display:inline;fill:#ffe500;stroke:#000000;stroke-width:0.10999979;stroke-linejoin:round"
        inkscape:label="" />
     <path
-       id="connector1pin"
+       id="connector2pin"
        d="m 48.717618,55.80573 1.774497,0 0,1.774335 -1.774497,0 0,-1.774335 z"
        inkscape:connector-curvature="0"
        style="display:inline;fill:#ffe500;stroke:#000000;stroke-width:0.10999979;stroke-linejoin:round"
        inkscape:label="" />
     <path
-       id="connector2pin"
+       id="connector3pin"
        d="m 41.631003,57.580065 0,-1.774335 1.774497,0 0,1.774335 -1.774497,0 z"
        inkscape:connector-curvature="0"
        style="display:inline;fill:#ffe500;stroke:#000000;stroke-width:0.10999979;stroke-linejoin:round"
        inkscape:label="" />
     <path
-       id="connector3pin"
+       id="connector4pin"
        d="m 34.54439,57.580065 0,-1.774335 1.774496,0 0,1.774335 -1.774496,0 z"
        inkscape:connector-curvature="0"
        style="display:inline;fill:#ffe500;stroke:#000000;stroke-width:0.10999979;stroke-linejoin:round"
