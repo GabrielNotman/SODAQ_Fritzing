@@ -30,7 +30,7 @@
      showgrid="true"
      units="mm"
      inkscape:zoom="6.594592"
-     inkscape:cx="4.0837242"
+     inkscape:cx="-21.770794"
      inkscape:cy="26.194877"
      inkscape:window-x="-8"
      inkscape:window-y="1072"
@@ -84,7 +84,8 @@
      transform="translate(0,14.173228)">
     <g
        id="copper0"
-       inkscape:label="">
+       inkscape:label=""
+       transform="translate(0,3.5436788)">
       <g
          inkscape:label=""
          id="copper1">
