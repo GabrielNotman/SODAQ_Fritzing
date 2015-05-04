@@ -26,10 +26,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="5.6"
-     inkscape:cx="81.541908"
+     inkscape:cx="51.095479"
      inkscape:cy="24.882465"
      inkscape:document-units="px"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:snap-bbox="true"
      inkscape:bbox-paths="true"
@@ -115,7 +115,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -458,31 +458,30 @@
      inkscape:label="Connectors"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-960.23622)"
-     sodipodi:insensitive="true">
+     transform="translate(0,-960.23622)">
     <path
        style="display:inline;fill:#cccccc;stroke:#000000;stroke-width:0.10999979;stroke-linejoin:round"
        inkscape:connector-curvature="0"
        d="m 36.263898,984.98437 -1.661654,0 0,-1.66165 1.661654,0 0,1.66165 z"
-       id="SCL"
+       id="connector1pin"
        inkscape:label="" />
     <path
        style="display:inline;fill:#cccccc;stroke:#000000;stroke-width:0.10999979;stroke-linejoin:round"
        inkscape:connector-curvature="0"
        d="m 43.350512,984.98437 -1.661654,0 0,-1.66165 1.661654,0 0,1.66165 z"
-       id="SDA"
+       id="connector2pin"
        inkscape:label="" />
     <path
        style="display:inline;fill:#cccccc;stroke:#000000;stroke-width:0.10999979;stroke-linejoin:round"
        inkscape:connector-curvature="0"
        d="m 50.437127,984.98437 -1.661654,0 0,-1.66165 1.661654,0 0,1.66165 z"
-       id="VIN"
+       id="connector3pin"
        inkscape:label="" />
     <path
        style="display:inline;fill:#cccccc;stroke:#000000;stroke-width:0.10999979;stroke-linejoin:round"
        inkscape:connector-curvature="0"
        d="m 57.523741,984.98437 -1.661654,0 0,-1.66165 1.661654,0 0,1.66165 z"
-       id="GND"
+       id="connector4pin"
        inkscape:label="" />
   </g>
 </svg>
