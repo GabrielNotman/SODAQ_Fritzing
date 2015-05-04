@@ -26,10 +26,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="4"
-     inkscape:cx="30.737777"
-     inkscape:cy="92.561174"
+     inkscape:cx="-21.708481"
+     inkscape:cy="39.832142"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer6"
      showgrid="true"
      showguides="false"
      inkscape:guide-bbox="true"
@@ -3324,12 +3324,12 @@
      inkscape:groupmode="layer"
      id="layer6"
      inkscape:label="ICSP_Pins"
-     sodipodi:insensitive="true"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <g
        transform="translate(7.6293945e-6,-845.07874)"
        style="display:inline"
-       id="RESET_ICSP"
+       id="connector47pin"
        inkscape:label="">
       <path
          id="connector116pin"
@@ -3360,7 +3360,7 @@
     <g
        transform="translate(7.6293945e-6,-845.07874)"
        style="display:inline"
-       id="GND_ICSP"
+       id="connector50pin"
        inkscape:label="">
       <path
          id="connector119pin"
@@ -3391,7 +3391,7 @@
     <g
        transform="translate(7.6293945e-6,-845.07874)"
        style="display:inline"
-       id="SCK_ICSP"
+       id="connector46pin"
        inkscape:label="">
       <path
          id="connector115pin"
@@ -3422,7 +3422,7 @@
     <g
        transform="translate(7.6293945e-6,-845.07874)"
        style="display:inline"
-       id="MOSI_ICSP"
+       id="connector49pin"
        inkscape:label="">
       <path
          id="connector118pin"
@@ -3453,7 +3453,7 @@
     <g
        transform="translate(7.6293945e-6,-845.07874)"
        style="display:inline"
-       id="MISO_ICSP"
+       id="connector45pin"
        inkscape:label="">
       <path
          id="connector114pin"
@@ -3484,7 +3484,7 @@
     <g
        transform="translate(7.6293945e-6,-845.07874)"
        style="display:inline"
-       id="3v3_ICSP"
+       id="connector48pin"
        inkscape:label="">
       <path
          id="connector117pin"
@@ -3521,84 +3521,84 @@
      sodipodi:insensitive="true">
     <path
        transform="translate(7.6293945e-6,-845.07874)"
-       id="D8"
+       id="connector5pin"
        d="m 29.215849,920.38698 -1.774496,0 0,-1.77434 1.774496,0 0,1.77434 z"
        inkscape:connector-curvature="0"
        style="fill:#cccccc;stroke:#000000;stroke-width:0.10999979;stroke-linejoin:round"
        inkscape:label="" />
     <path
        transform="translate(7.6293945e-6,-845.07874)"
-       id="D9"
+       id="connector6pin"
        d="m 34.481589,918.61264 1.774497,0 0,1.77434 -1.774497,0 0,-1.77434 z"
        inkscape:connector-curvature="0"
        style="fill:#cccccc;stroke:#000000;stroke-width:0.10999979;stroke-linejoin:round"
        inkscape:label="" />
     <path
        transform="translate(7.6293945e-6,-845.07874)"
-       id="3v3_1_2"
+       id="connector7pin"
        d="m 41.637075,920.38698 0,-1.77434 1.774497,0 0,1.77434 -1.774497,0 z"
        inkscape:connector-curvature="0"
        style="fill:#cccccc;stroke:#000000;stroke-width:0.10999979;stroke-linejoin:round"
        inkscape:label="" />
     <path
        transform="translate(7.6293945e-6,-845.07874)"
-       id="GND_1_2"
+       id="connector8pin"
        d="m 48.734937,920.38698 0,-1.77434 1.774496,0 0,1.77434 -1.774496,0 z"
        inkscape:connector-curvature="0"
        style="fill:#cccccc;stroke:#000000;stroke-width:0.10999979;stroke-linejoin:round"
        inkscape:label="" />
     <path
        transform="translate(7.6293945e-6,-845.07874)"
-       id="D10"
+       id="connector1pin"
        d="m 29.21585,893.81218 -1.774496,0 0,-1.7743 1.774496,0 0,1.7743 z"
        inkscape:connector-curvature="0"
        style="fill:#cccccc;stroke:#000000;stroke-width:0.10999979;stroke-linejoin:round"
        inkscape:label="" />
     <path
        transform="translate(7.6293945e-6,-845.07874)"
-       id="D11"
+       id="connector2pin"
        d="m 34.48159,892.03788 1.774497,0 0,1.7743 -1.774497,0 0,-1.7743 z"
        inkscape:connector-curvature="0"
        style="fill:#cccccc;stroke:#000000;stroke-width:0.10999979;stroke-linejoin:round"
        inkscape:label="" />
     <path
        transform="translate(7.6293945e-6,-845.07874)"
-       id="3v3_1_1"
+       id="connector3pin"
        d="m 41.637076,893.81218 0,-1.7743 1.774497,0 0,1.7743 -1.774497,0 z"
        inkscape:connector-curvature="0"
        style="fill:#cccccc;stroke:#000000;stroke-width:0.10999979;stroke-linejoin:round"
        inkscape:label="" />
     <path
        transform="translate(7.6293945e-6,-845.07874)"
-       id="GND_1_1"
+       id="connector4pin"
        d="m 48.734938,893.81218 0,-1.7743 1.774496,0 0,1.7743 -1.774496,0 z"
        inkscape:connector-curvature="0"
        style="fill:#cccccc;stroke:#000000;stroke-width:0.10999979;stroke-linejoin:round"
        inkscape:label="" />
     <path
        transform="translate(7.6293945e-6,-845.07874)"
-       id="A6"
+       id="connector29pin"
        d="m 71.73652,920.38698 -1.774496,0 0,-1.77434 1.774496,0 0,1.77434 z"
        inkscape:connector-curvature="0"
        style="fill:#cccccc;stroke:#000000;stroke-width:0.10999979;stroke-linejoin:round"
        inkscape:label="" />
     <path
        transform="translate(7.6293945e-6,-845.07874)"
-       id="A7"
+       id="connector30pin"
        d="m 77.00226,918.61264 1.774497,0 0,1.77434 -1.774497,0 0,-1.77434 z"
        inkscape:connector-curvature="0"
        style="fill:#cccccc;stroke:#000000;stroke-width:0.10999979;stroke-linejoin:round"
        inkscape:label="" />
     <path
        transform="translate(7.6293945e-6,-845.07874)"
-       id="3v3_2_2"
+       id="connector31pin"
        d="m 84.157746,920.38698 0,-1.77434 1.774497,0 0,1.77434 -1.774497,0 z"
        inkscape:connector-curvature="0"
        style="fill:#cccccc;stroke:#000000;stroke-width:0.10999979;stroke-linejoin:round"
        inkscape:label="" />
     <path
        transform="translate(7.6293945e-6,-845.07874)"
-       id="GND_2_2"
+       id="connector32pin"
        d="m 91.255608,920.38698 0,-1.77434 1.774496,0 0,1.77434 -1.774496,0 z"
        inkscape:connector-curvature="0"
        style="fill:#cccccc;stroke:#000000;stroke-width:0.10999979;stroke-linejoin:round"
@@ -3608,109 +3608,109 @@
        style="fill:#cccccc;stroke:#000000;stroke-width:0.10999979;stroke-linejoin:round"
        inkscape:connector-curvature="0"
        d="m 71.73648,893.81217 -1.774496,0 0,-1.77434 1.774496,0 0,1.77434 z"
-       id="D22"
+       id="connector25pin"
        inkscape:label="" />
     <path
        transform="translate(7.6293945e-6,-845.07874)"
        style="fill:#cccccc;stroke:#000000;stroke-width:0.10999979;stroke-linejoin:round"
        inkscape:connector-curvature="0"
        d="m 77.00222,892.03783 1.774497,0 0,1.77434 -1.774497,0 0,-1.77434 z"
-       id="A1"
+       id="connector26pin"
        inkscape:label="" />
     <path
        transform="translate(7.6293945e-6,-845.07874)"
        style="fill:#cccccc;stroke:#000000;stroke-width:0.10999979;stroke-linejoin:round"
        inkscape:connector-curvature="0"
        d="m 84.157706,893.81217 0,-1.77434 1.774497,0 0,1.77434 -1.774497,0 z"
-       id="3v3_2_1"
+       id="connector27pin"
        inkscape:label="" />
     <path
        transform="translate(7.6293945e-6,-845.07874)"
        style="fill:#cccccc;stroke:#000000;stroke-width:0.10999979;stroke-linejoin:round"
        inkscape:connector-curvature="0"
        d="m 91.255568,893.81217 0,-1.77434 1.774496,0 0,1.77434 -1.774496,0 z"
-       id="GND_2_1"
+       id="connector28pin"
        inkscape:label="" />
     <path
        transform="translate(7.6293945e-6,-845.07874)"
-       id="RXD0"
+       id="connector21pin"
        d="m 29.215849,1026.6855 -1.774496,0 0,-1.7743 1.774496,0 0,1.7743 z"
        inkscape:connector-curvature="0"
        style="fill:#cccccc;stroke:#000000;stroke-width:0.10999979;stroke-linejoin:round"
        inkscape:label="" />
     <path
        transform="translate(7.6293945e-6,-845.07874)"
-       id="TXD0"
+       id="connector22pin"
        d="m 34.481589,1024.9112 1.774497,0 0,1.7743 -1.774497,0 0,-1.7743 z"
        inkscape:connector-curvature="0"
        style="fill:#cccccc;stroke:#000000;stroke-width:0.10999979;stroke-linejoin:round"
        inkscape:label="" />
     <path
        transform="translate(7.6293945e-6,-845.07874)"
-       id="3v3_1_6"
+       id="connector23pin"
        d="m 41.637075,1026.6855 0,-1.7743 1.774497,0 0,1.7743 -1.774497,0 z"
        inkscape:connector-curvature="0"
        style="fill:#cccccc;stroke:#000000;stroke-width:0.10999979;stroke-linejoin:round"
        inkscape:label="" />
     <path
        transform="translate(7.6293945e-6,-845.07874)"
-       id="GND_1_6"
+       id="connector24pin"
        d="m 48.734937,1026.6855 0,-1.7743 1.774496,0 0,1.7743 -1.774496,0 z"
        inkscape:connector-curvature="0"
        style="fill:#cccccc;stroke:#000000;stroke-width:0.10999979;stroke-linejoin:round"
        inkscape:label="" />
     <path
        transform="translate(7.6293945e-6,-845.07874)"
-       id="D4"
+       id="connector17pin"
        d="m 29.215849,1000.1114 -1.774496,0 0,-1.77435 1.774496,0 0,1.77435 z"
        inkscape:connector-curvature="0"
        style="fill:#cccccc;stroke:#000000;stroke-width:0.10999979;stroke-linejoin:round"
        inkscape:label="" />
     <path
        transform="translate(7.6293945e-6,-845.07874)"
-       id="D5"
+       id="connector18pin"
        d="m 34.481589,998.33705 1.774497,0 0,1.77435 -1.774497,0 0,-1.77435 z"
        inkscape:connector-curvature="0"
        style="fill:#cccccc;stroke:#000000;stroke-width:0.10999979;stroke-linejoin:round"
        inkscape:label="" />
     <path
        transform="translate(7.6293945e-6,-845.07874)"
-       id="3v3_1_5"
+       id="connector19pin"
        d="m 41.637075,1000.1114 0,-1.77435 1.774497,0 0,1.77435 -1.774497,0 z"
        inkscape:connector-curvature="0"
        style="fill:#cccccc;stroke:#000000;stroke-width:0.10999979;stroke-linejoin:round"
        inkscape:label="" />
     <path
        transform="translate(7.6293945e-6,-845.07874)"
-       id="GND_1_5"
+       id="connector20pin"
        d="m 48.734937,1000.1114 0,-1.77435 1.774496,0 0,1.77435 -1.774496,0 z"
        inkscape:connector-curvature="0"
        style="fill:#cccccc;stroke:#000000;stroke-width:0.10999979;stroke-linejoin:round"
        inkscape:label="" />
     <path
        transform="translate(7.6293945e-6,-845.07874)"
-       id="D6"
+       id="connector13pin"
        d="m 29.215849,973.53659 -1.774496,0 0,-1.77434 1.774496,0 0,1.77434 z"
        inkscape:connector-curvature="0"
        style="fill:#cccccc;stroke:#000000;stroke-width:0.10999979;stroke-linejoin:round"
        inkscape:label="" />
     <path
        transform="translate(7.6293945e-6,-845.07874)"
-       id="D7"
+       id="connector14pin"
        d="m 34.481589,971.76225 1.774497,0 0,1.77434 -1.774497,0 0,-1.77434 z"
        inkscape:connector-curvature="0"
        style="fill:#cccccc;stroke:#000000;stroke-width:0.10999979;stroke-linejoin:round"
        inkscape:label="" />
     <path
        transform="translate(7.6293945e-6,-845.07874)"
-       id="3v3_1_4"
+       id="connector15pin"
        d="m 41.637075,973.53659 0,-1.77434 1.774497,0 0,1.77434 -1.774497,0 z"
        inkscape:connector-curvature="0"
        style="fill:#cccccc;stroke:#000000;stroke-width:0.10999979;stroke-linejoin:round"
        inkscape:label="" />
     <path
        transform="translate(7.6293945e-6,-845.07874)"
-       id="GND_1_4"
+       id="connector16pin"
        d="m 48.734937,973.53659 0,-1.77434 1.774496,0 0,1.77434 -1.774496,0 z"
        inkscape:connector-curvature="0"
        style="fill:#cccccc;stroke:#000000;stroke-width:0.10999979;stroke-linejoin:round"
@@ -3720,81 +3720,81 @@
        style="fill:#cccccc;stroke:#000000;stroke-width:0.10999979;stroke-linejoin:round"
        inkscape:connector-curvature="0"
        d="m 29.215849,946.96178 -1.774496,0 0,-1.77434 1.774496,0 0,1.77434 z"
-       id="SCL"
+       id="connector9pin"
        inkscape:label="" />
     <path
        transform="translate(7.6293945e-6,-845.07874)"
        style="fill:#cccccc;stroke:#000000;stroke-width:0.10999979;stroke-linejoin:round"
        inkscape:connector-curvature="0"
        d="m 34.481589,945.18744 1.774497,0 0,1.77434 -1.774497,0 0,-1.77434 z"
-       id="SDA"
+       id="connector10pin"
        inkscape:label="" />
     <path
        transform="translate(7.6293945e-6,-845.07874)"
        style="fill:#cccccc;stroke:#000000;stroke-width:0.10999979;stroke-linejoin:round"
        inkscape:connector-curvature="0"
        d="m 41.637075,946.96178 0,-1.77434 1.774497,0 0,1.77434 -1.774497,0 z"
-       id="3v3_1_3"
+       id="connector11pin"
        inkscape:label="" />
     <path
        transform="translate(7.6293945e-6,-845.07874)"
        style="fill:#cccccc;stroke:#000000;stroke-width:0.10999979;stroke-linejoin:round"
        inkscape:connector-curvature="0"
        d="m 48.734937,946.96178 0,-1.77434 1.774496,0 0,1.77434 -1.774496,0 z"
-       id="GND_1_3"
+       id="connector12pin"
        inkscape:label="" />
     <path
        transform="translate(7.6293945e-6,-845.07874)"
        style="fill:#cccccc;stroke:#000000;stroke-width:0.10999979;stroke-linejoin:round"
        inkscape:connector-curvature="0"
        d="m 71.73652,1000.1114 -1.774496,0 0,-1.77431 1.774496,0 0,1.77431 z"
-       id="RXD1"
+       id="connector41pin"
        inkscape:label="" />
     <path
        transform="translate(7.6293945e-6,-845.07874)"
        style="fill:#cccccc;stroke:#000000;stroke-width:0.10999979;stroke-linejoin:round"
        inkscape:connector-curvature="0"
        d="m 77.00226,998.33709 1.774497,0 0,1.77431 -1.774497,0 0,-1.77431 z"
-       id="TXD1"
+       id="connector42pin"
        inkscape:label="" />
     <path
        transform="translate(7.6293945e-6,-845.07874)"
        style="fill:#cccccc;stroke:#000000;stroke-width:0.10999979;stroke-linejoin:round"
        inkscape:connector-curvature="0"
        d="m 84.157746,1000.1114 0,-1.77431 1.774497,0 0,1.77431 -1.774497,0 z"
-       id="3v3_2_5"
+       id="connector43pin"
        inkscape:label="" />
     <path
        transform="translate(7.6293945e-6,-845.07874)"
        style="fill:#cccccc;stroke:#000000;stroke-width:0.10999979;stroke-linejoin:round"
        inkscape:connector-curvature="0"
        d="m 91.255608,1000.1114 0,-1.77431 1.774496,0 0,1.77431 -1.774496,0 z"
-       id="GND_2_5"
+       id="connector44pin"
        inkscape:label="" />
     <path
        transform="translate(7.6293945e-6,-845.07874)"
-       id="A2"
+       id="connector37pin"
        d="m 71.73648,973.53659 -1.774496,0 0,-1.77434 1.774496,0 0,1.77434 z"
        inkscape:connector-curvature="0"
        style="fill:#cccccc;stroke:#000000;stroke-width:0.10999979;stroke-linejoin:round"
        inkscape:label="" />
     <path
        transform="translate(7.6293945e-6,-845.07874)"
-       id="A3"
+       id="connector38pin"
        d="m 77.00222,971.76225 1.774497,0 0,1.77434 -1.774497,0 0,-1.77434 z"
        inkscape:connector-curvature="0"
        style="fill:#cccccc;stroke:#000000;stroke-width:0.10999979;stroke-linejoin:round"
        inkscape:label="" />
     <path
        transform="translate(7.6293945e-6,-845.07874)"
-       id="3v3_2_4"
+       id="connector39pin"
        d="m 84.157706,973.53659 0,-1.77434 1.774497,0 0,1.77434 -1.774497,0 z"
        inkscape:connector-curvature="0"
        style="fill:#cccccc;stroke:#000000;stroke-width:0.10999979;stroke-linejoin:round"
        inkscape:label="" />
     <path
        transform="translate(7.6293945e-6,-845.07874)"
-       id="GND_2_4"
+       id="connector40pin"
        d="m 91.255568,973.53659 0,-1.77434 1.774496,0 0,1.77434 -1.774496,0 z"
        inkscape:connector-curvature="0"
        style="opacity:0.98000004;fill:#cccccc;stroke:#000000;stroke-width:0.10999979;stroke-linejoin:round"
@@ -3804,28 +3804,28 @@
        style="fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:0.10999979;stroke-linejoin:round"
        inkscape:connector-curvature="0"
        d="m 71.73648,946.96178 -1.774496,0 0,-1.77434 1.774496,0 0,1.77434 z"
-       id="A4"
+       id="connector33pin"
        inkscape:label="" />
     <path
        transform="translate(7.6293945e-6,-845.07874)"
        style="fill:#cccccc;stroke:#000000;stroke-width:0.10999979;stroke-linejoin:round"
        inkscape:connector-curvature="0"
        d="m 77.00222,945.18744 1.774497,0 0,1.77434 -1.774497,0 0,-1.77434 z"
-       id="A5"
+       id="connector34pin"
        inkscape:label="" />
     <path
        transform="translate(7.6293945e-6,-845.07874)"
        style="fill:#cccccc;stroke:#000000;stroke-width:0.10999979;stroke-linejoin:round"
        inkscape:connector-curvature="0"
        d="m 84.157706,946.96178 0,-1.77434 1.774497,0 0,1.77434 -1.774497,0 z"
-       id="3v3_2_3"
+       id="connector35pin"
        inkscape:label="" />
     <path
        transform="translate(7.6293945e-6,-845.07874)"
        style="fill:#cccccc;stroke:#000000;stroke-width:0.10999979;stroke-linejoin:round"
        inkscape:connector-curvature="0"
        d="m 91.255568,946.96178 0,-1.77434 1.774496,0 0,1.77434 -1.774496,0 z"
-       id="GND_2_3"
+       id="connector36pin"
        inkscape:label="" />
   </g>
   <g
