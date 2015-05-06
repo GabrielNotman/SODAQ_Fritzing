@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="22mm"
+   height="26mm"
+   version="1.1"
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="Grove_Switch_P.svg">
+  <defs
+     id="defs53" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview51"
+     showgrid="true"
+     units="mm"
+     inkscape:snap-grids="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-bbox="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-center="true"
+     inkscape:bbox-paths="false"
+     inkscape:snap-bbox-edge-midpoints="false"
+     inkscape:zoom="4.6630808"
+     inkscape:cx="-23.748442"
+     inkscape:cy="29.4257"
+     inkscape:window-x="-8"
+     inkscape:window-y="1072"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer3"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4226"
+       units="mm"
+       spacingx="3.5433071"
+       spacingy="3.5433071"
+       empspacing="2"
+       empcolor="#000000"
+       empopacity="0.25098039" />
+    <sodipodi:guide
+       position="60.236221,66.380315"
+       orientation="0,1"
+       id="guide4154"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata13579">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Board"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <path
+       style="display:inline;fill:#274a88"
+       inkscape:connector-curvature="0"
+       d="m 38.980807,7.0027067 c -3.099659,0 -5.625,2.525341 -5.625,5.6249993 l -26.9999999,0 c -1.5703937,0 -2.8125,1.242107 -2.8125,2.812501 l 0,27 c 3.099659,0 5.59375,2.525341 5.59375,5.625 0,3.099659 -2.494091,5.59375 -5.59375,5.59375 l 0,27 c 0,1.570394 1.2421063,2.8125 2.8125,2.8125 l 26.9999999,0 c 0,3.099659 2.525341,5.625 5.625,5.625 3.099659,0 5.59375,-2.525341 5.59375,-5.625 l 27,0 c 1.570394,0 2.8125,-1.242106 2.8125,-2.8125 l 0,-27 c -3.099659,0 -5.59375,-2.494091 -5.59375,-5.59375 0,-3.099659 2.494091,-5.625 5.59375,-5.625 l 0,-27 c 0,-1.570394 -1.242106,-2.812501 -2.8125,-2.812501 l -27,0 c 0,-3.0996583 -2.494091,-5.6249993 -5.59375,-5.6249993 z m 0,2.375 c 1.794539,0 3.25,1.4554603 3.25,3.2499993 0,1.794541 -1.455461,3.250001 -3.25,3.250001 -1.794539,0 -3.25,-1.45546 -3.25,-3.250001 0,-1.794539 1.455461,-3.2499993 3.25,-3.2499993 z m 0,70.8750003 c 1.794539,0 3.25,1.424211 3.25,3.21875 0,1.794539 -1.455461,3.25 -3.25,3.25 -1.794539,0 -3.25,-1.455461 -3.25,-3.25 0,-1.794539 1.455461,-3.21875 3.25,-3.21875 z"
+       id="Board"
+       inkscape:label="#rect2992" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Components"
+     sodipodi:insensitive="true">
+    <g
+       id="Switch"
+       inkscape:label=""
+       transform="translate(-0.8858274,1.7716538)">
+      <path
+         style="fill:#ededed;stroke:#000000;stroke-width:0.10000001"
+         inkscape:connector-curvature="0"
+         d="m 33.711418,39.026378 12.301575,0 0,31.789763 -12.301575,0 0,-31.789763 z"
+         id="rect5230-6" />
+      <path
+         style="fill:#666666;fill-opacity:1"
+         inkscape:connector-curvature="0"
+         d="m 36.761812,48.720472 6.200787,0 0,12.401575 -6.200787,0 0,-12.401575 z"
+         id="rect5230-6-6" />
+      <path
+         style="fill:#000000"
+         inkscape:connector-curvature="0"
+         d="m 36.761812,55.807086 6.200787,0 0,5.314961 -6.200787,0 0,-5.314961 z"
+         id="rect5230-6-6-0" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Labels"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.0001359px;line-height:125%;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-26.198557"
+       y="51.164669"
+       id="Label_GND"
+       sodipodi:linespacing="125%"
+       transform="matrix(0,-0.9999661,1.0000339,0,0,0)"
+       inkscape:label=""><tspan
+         sodipodi:role="line"
+         id="tspan4153"
+         x="-26.198557"
+         y="51.164669"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.0001359px;line-height:125%;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start">GND</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.75012732px;line-height:125%;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-26.198557"
+       y="44.078297"
+       id="Label_VCC"
+       sodipodi:linespacing="125%"
+       transform="matrix(0,-0.9999661,1.0000339,0,0,0)"
+       inkscape:label=""><tspan
+         sodipodi:role="line"
+         id="tspan4157"
+         x="-26.198557"
+         y="44.078297"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.0001359px;line-height:125%;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff">VCC</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.75012732px;line-height:125%;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-26.198557"
+       y="36.991924"
+       id="Label_NC"
+       sodipodi:linespacing="125%"
+       transform="matrix(0,-0.9999661,1.0000339,0,0,0)"
+       inkscape:label=""><tspan
+         sodipodi:role="line"
+         id="tspan4161"
+         x="-26.198557"
+         y="36.991924"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.0001359px;line-height:125%;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff">NC</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.75012732px;line-height:125%;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-26.198557"
+       y="29.905548"
+       id="Label_SIG"
+       sodipodi:linespacing="125%"
+       transform="matrix(0,-0.9999661,1.0000339,0,0,0)"
+       inkscape:label=""><tspan
+         sodipodi:role="line"
+         id="tspan4165"
+         x="-26.198557"
+         y="29.905548"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.0001359px;line-height:125%;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff">SIG</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.0001359px;line-height:125%;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="49.04298"
+       y="46.418243"
+       id="Label_HIGH"
+       sodipodi:linespacing="125%"
+       transform="scale(0.9999661,1.0000339)"
+       inkscape:label=""><tspan
+         sodipodi:role="line"
+         id="tspan4206"
+         x="49.04298"
+         y="46.418243"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;line-height:125%;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start">HIGH</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.0001359px;line-height:125%;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="49.04298"
+       y="58.640991"
+       id="Label_SIG_SW"
+       sodipodi:linespacing="125%"
+       transform="scale(0.9999661,1.0000339)"
+       inkscape:label=""><tspan
+         sodipodi:role="line"
+         id="tspan4206-3"
+         x="49.04298"
+         y="58.640991"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;line-height:125%;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start">SIG</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.0001359px;line-height:125%;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="49.04298"
+       y="70.863739"
+       id="Label_LOW"
+       sodipodi:linespacing="125%"
+       transform="scale(0.9999661,1.0000339)"
+       inkscape:label=""><tspan
+         sodipodi:role="line"
+         id="tspan4206-2"
+         x="49.04298"
+         y="70.863739"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;line-height:125%;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start">LOW</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.0001359px;line-height:125%;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="39.392982"
+       y="37.743744"
+       id="Label_SIG_SW-6"
+       sodipodi:linespacing="125%"
+       transform="scale(0.9999661,1.0000339)"
+       inkscape:label=""><tspan
+         sodipodi:role="line"
+         id="tspan4206-3-9"
+         x="39.392982"
+         y="37.743744"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.625px;line-height:125%;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle">Switch(P)</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Pins"
+     sodipodi:insensitive="true">
+    <path
+       id="connector4pin"
+       d="m 50.493547,29.233976 -1.774496,0 0,-1.774335 1.774496,0 0,1.774335 z"
+       inkscape:connector-curvature="0"
+       style="display:inline;fill:#ffe500;stroke:#000000;stroke-width:0.10999979;stroke-linejoin:round"
+       inkscape:label="" />
+    <path
+       id="connector3pin"
+       d="m 41.632437,27.459641 1.774497,0 0,1.774335 -1.774497,0 0,-1.774335 z"
+       inkscape:connector-curvature="0"
+       style="display:inline;fill:#ffe500;stroke:#000000;stroke-width:0.10999979;stroke-linejoin:round"
+       inkscape:label="" />
+    <path
+       id="connector2pin"
+       d="m 34.545822,29.233976 0,-1.774335 1.774497,0 0,1.774335 -1.774497,0 z"
+       inkscape:connector-curvature="0"
+       style="display:inline;fill:#ffe500;stroke:#000000;stroke-width:0.10999979;stroke-linejoin:round"
+       inkscape:label="" />
+    <path
+       id="connector1pin"
+       d="m 27.459209,29.233976 0,-1.774335 1.774496,0 0,1.774335 -1.774496,0 z"
+       inkscape:connector-curvature="0"
+       style="display:inline;fill:#ffe500;stroke:#000000;stroke-width:0.10999979;stroke-linejoin:round"
+       inkscape:label="" />
+  </g>
+</svg>
