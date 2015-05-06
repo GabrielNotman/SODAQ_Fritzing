@@ -12,7 +12,7 @@
    height="45mm"
    id="svg2"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="Grove_OLED_96x96.svg">
+   sodipodi:docname="Grove_OLED_Display_96x96.svg">
   <defs
      id="defs56" />
   <sodipodi:namedview
@@ -37,9 +37,9 @@
      inkscape:guide-bbox="true"
      inkscape:bbox-nodes="true"
      inkscape:snap-bbox-edge-midpoints="true"
-     inkscape:zoom="4.1204247"
-     inkscape:cx="126.84865"
-     inkscape:cy="61.292034"
+     inkscape:zoom="8.2408494"
+     inkscape:cx="30.288302"
+     inkscape:cy="79.056614"
      inkscape:window-x="-8"
      inkscape:window-y="1072"
      inkscape:window-maximized="1"
@@ -91,7 +91,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -274,9 +274,7 @@
          id="tspan4303"
          x="24.363949"
          y="8.6466131"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4px;line-height:125%;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#ffffff"><tspan
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4px;line-height:125%;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#ffffff"
-   id="tspan4305">VC</tspan>C</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.00000006px;line-height:125%;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';text-align:end;writing-mode:lr;text-anchor:end;fill:#ffffff">VCC</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4px;line-height:125%;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
