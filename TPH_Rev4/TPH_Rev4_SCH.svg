@@ -36,12 +36,12 @@
      id="namedview107"
      showgrid="true"
      inkscape:zoom="13.141593"
-     inkscape:cx="16.597025"
+     inkscape:cx="3.622951"
      inkscape:cy="27.424643"
      inkscape:window-x="-8"
      inkscape:window-y="1072"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer5"
      inkscape:snap-bbox="true"
      inkscape:bbox-paths="true"
      inkscape:bbox-nodes="true"
@@ -59,7 +59,8 @@
      id="layer2"
      inkscape:label="Part"
      style="display:inline"
-     transform="translate(0,-143.99998)"><rect
+     transform="translate(0,-143.99998)"
+     sodipodi:insensitive="true"><rect
        style="fill:#ffffff;stroke:#000000;stroke-width:0.91651386;stroke-linecap:round"
        height="44.083485"
        width="26.083481"
@@ -71,7 +72,8 @@
      id="layer3"
      inkscape:label="Pins"
      style="display:inline"
-     transform="translate(0,-143.99998)"><line
+     transform="translate(0,-143.99998)"
+     sodipodi:insensitive="true"><line
        x1="1.4450099"
        y1="162.00002"
        x2="8.6450129"
@@ -104,10 +106,9 @@
      id="layer5"
      inkscape:label="Labels_Pins"
      style="display:inline"
-     transform="translate(0,-143.99998)"
-     sodipodi:insensitive="true"><text
+     transform="translate(0,-143.99998)"><text
        font-size="4.5"
-       id="Label_Pin_SCL"
+       id="Label_SCL"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.375px;line-height:125%;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#555555"
        x="17.77783"
        y="163.56264"
@@ -119,7 +120,7 @@
          y="163.56264">SCL</tspan></text>
 <text
        font-size="4.5"
-       id="Label_Pin_SDA"
+       id="Label_SDA"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.375px;line-height:125%;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#555555"
        x="17.77783"
        y="172.56264"
@@ -131,7 +132,7 @@
          y="172.56264">SDA</tspan></text>
 <text
        font-size="4.5"
-       id="Label_Pin_VIN"
+       id="Label_VIN"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.375px;line-height:125%;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#555555"
        x="17.999998"
        y="181.56157"
@@ -143,7 +144,7 @@
          y="181.56157">VIN</tspan></text>
 <text
        font-size="4.5"
-       id="Label_Pin_GND"
+       id="Label_GND"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.375px;line-height:125%;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#555555"
        x="17.732971"
        y="190.56264"
