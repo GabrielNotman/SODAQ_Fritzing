@@ -12,7 +12,7 @@
    height="26mm"
    id="svg2"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="Grove_Touch_Sensor.svg">
+   sodipodi:docname="Grove_Touch_Sensor_P.svg">
   <defs
      id="defs56" />
   <sodipodi:namedview
@@ -29,16 +29,17 @@
      id="namedview54"
      showgrid="true"
      units="mm"
-     inkscape:zoom="11.313708"
-     inkscape:cx="17.303655"
-     inkscape:cy="25.548008"
+     inkscape:zoom="7.9999996"
+     inkscape:cx="-10.845707"
+     inkscape:cy="32.910619"
      inkscape:window-x="-8"
      inkscape:window-y="1072"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer5"
+     inkscape:current-layer="layer4"
      inkscape:snap-bbox="true"
      inkscape:snap-bbox-midpoints="true"
-     inkscape:snap-bbox-edge-midpoints="true">
+     inkscape:snap-bbox-edge-midpoints="false"
+     inkscape:bbox-nodes="true">
     <inkscape:grid
        type="xygrid"
        id="grid4184"
@@ -95,8 +96,7 @@
      id="layer4"
      inkscape:label="Labels"
      transform="translate(0,14.173228)"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4px;line-height:125%;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -153,13 +153,32 @@
          x="-61.606064"
          y="51.166298"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4px;line-height:125%;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff">SIG</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4px;line-height:125%;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="39.391663"
+       y="19.937967"
+       id="Label_Main"
+       sodipodi:linespacing="125%"
+       inkscape:label=""><tspan
+         sodipodi:role="line"
+         id="tspan4164"
+         x="39.391663"
+         y="19.937967"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.625px;line-height:125%;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#333333">Touch</tspan><tspan
+         sodipodi:role="line"
+         x="39.391663"
+         y="26.969217"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.625px;line-height:125%;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#333333"
+         id="tspan4166">Sensor(P)</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="Pins"
      transform="translate(0,14.173228)"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <path
        id="connector1pin"
        d="m 50.493547,50.493467 -1.774496,0 0,-1.774335 1.774496,0 0,1.774335 z"
