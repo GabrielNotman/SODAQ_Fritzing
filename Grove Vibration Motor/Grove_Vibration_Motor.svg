@@ -25,17 +25,25 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1017"
+     inkscape:window-height="1080"
      id="namedview54"
      showgrid="true"
      units="mm"
-     inkscape:zoom="11.313708"
-     inkscape:cx="9.4456631"
-     inkscape:cy="23.308509"
-     inkscape:window-x="-8"
-     inkscape:window-y="1072"
+     inkscape:zoom="7.9999996"
+     inkscape:cx="7.2672643"
+     inkscape:cy="43.257216"
+     inkscape:window-x="0"
+     inkscape:window-y="1080"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer5">
+     inkscape:current-layer="layer4"
+     inkscape:snap-bbox="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:bbox-nodes="false"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="true"
+     inkscape:snap-bbox-edge-midpoints="false"
+     showguides="true"
+     inkscape:snap-grids="false">
     <inkscape:grid
        type="xygrid"
        id="grid4184"
@@ -145,6 +153,20 @@
          style="-inkscape-font-specification:'OCRA, Normal';font-family:OCRA;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:4.00000006px;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%"
          id="tspan4183">SIG</tspan>
     </text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.625px;line-height:125%;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-30.336824"
+       y="17.025324"
+       id="Label_Main"
+       sodipodi:linespacing="125%"
+       transform="matrix(0,-1,1,0,0,0)"
+       inkscape:label=""><tspan
+         sodipodi:role="line"
+         id="tspan4188"
+         x="-30.336824"
+         y="17.025324"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.625px;line-height:125%;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff">Vibration Motor</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -349,7 +371,8 @@
      id="layer5"
      inkscape:label="Pins"
      transform="translate(0,14.173228)"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <path
        id="connector1pin"
        d="m 29.205588,43.40845 -1.774496,0 0,-1.774335 1.774496,0 0,1.774335 z"
