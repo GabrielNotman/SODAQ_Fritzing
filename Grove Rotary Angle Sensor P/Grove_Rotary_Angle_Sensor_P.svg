@@ -13,7 +13,7 @@
    height="26mm"
    id="svg2"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="Grove_Potentiometer.svg">
+   sodipodi:docname="Grove_Rotary_Angle_Sensor_P.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -40,13 +40,13 @@
      inkscape:snap-object-midpoints="true"
      inkscape:bbox-nodes="true"
      inkscape:snap-bbox-edge-midpoints="true"
-     inkscape:zoom="5.8271605"
-     inkscape:cx="-4.7259638"
-     inkscape:cy="51.199126"
+     inkscape:zoom="8.2408494"
+     inkscape:cx="6.726407"
+     inkscape:cy="22.667799"
      inkscape:window-x="-8"
      inkscape:window-y="1072"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer4">
+     inkscape:current-layer="layer3">
     <inkscape:grid
        type="xygrid"
        id="grid4271"
@@ -71,7 +71,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -198,21 +198,21 @@
   <g
      inkscape:groupmode="layer"
      id="layer3"
-     inkscape:label="Labels"
-     sodipodi:insensitive="true">
+     inkscape:label="Labels">
     <text
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4px;line-height:125%;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#ffffff"
        font-size="3.2"
        id="Main_label"
-       y="66.687431"
-       x="39.27169"
+       y="67.281906"
+       x="39.391663"
        inkscape:label=""
        sodipodi:linespacing="125%">
       <tspan
          sodipodi:role="line"
          id="tspan4893"
-         x="39.27169"
-         y="66.687431">Rotary (P)</tspan>
+         x="39.391663"
+         y="67.281906"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.625px;line-height:125%;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle">Rotary(P)</tspan>
     </text>
     <text
        xml:space="preserve"
