@@ -29,19 +29,19 @@
      id="namedview54"
      showgrid="true"
      units="mm"
-     inkscape:zoom="10.196396"
-     inkscape:cx="18.001461"
-     inkscape:cy="20.238287"
+     inkscape:zoom="14.419881"
+     inkscape:cx="17.519961"
+     inkscape:cy="35.86166"
      inkscape:window-x="-8"
      inkscape:window-y="1072"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer5"
+     inkscape:current-layer="layer4"
      inkscape:snap-bbox="true"
-     inkscape:snap-bbox-midpoints="false"
-     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:snap-bbox-edge-midpoints="false"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:bbox-nodes="false"
+     inkscape:bbox-nodes="true"
      inkscape:snap-grids="true"
      inkscape:snap-object-midpoints="false"
      inkscape:snap-intersection-paths="true"
@@ -285,8 +285,7 @@
      id="layer4"
      inkscape:label="Labels"
      transform="translate(0,7.0866138)"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4px;line-height:125%;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -343,13 +342,27 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4px;line-height:125%;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"
          x="-69.403992"
          y="36.993073">GND</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4px;line-height:125%;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="46.059212"
+       y="38.444881"
+       id="Label_Main"
+       sodipodi:linespacing="125%"
+       inkscape:label=""><tspan
+         sodipodi:role="line"
+         id="tspan4181"
+         x="46.059212"
+         y="38.444881"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.625px;line-height:125%;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff">LED</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="Pins"
      transform="translate(0,7.0866138)"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <path
        id="connector1pin"
        d="m 57.580162,57.580081 -1.774496,0 0,-1.774335 1.774496,0 0,1.774335 z"
