@@ -35,13 +35,13 @@
      inkscape:window-height="1017"
      id="namedview107"
      showgrid="true"
-     inkscape:zoom="3.2853981"
-     inkscape:cx="86.503094"
-     inkscape:cy="83.004251"
+     inkscape:zoom="2.3231273"
+     inkscape:cx="63.853437"
+     inkscape:cy="95.619912"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer5"
      inkscape:snap-bbox="true"
      inkscape:bbox-paths="false"
      inkscape:bbox-nodes="false"
@@ -95,7 +95,7 @@
      sodipodi:role="line"
      id="tspan4510"
      x="53.90374"
-     y="40.888035">Tatu</tspan></text>
+     y="40.888035">Autonomo</tspan></text>
 
 <rect
    style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:0.91651392;stroke-linecap:round"
@@ -614,59 +614,59 @@
      sodipodi:role="line"
      id="tspan5920"
      x="17.572746"
-     y="28.59041">D23</tspan></text>
+     y="28.59041">RESET</tspan></text>
 
 <text
    font-size="4.5"
    id="Label_Pin_L18"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.375px;line-height:125%;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#555555"
-   x="17.572746"
-   y="37.623524"
+   x="17.94445"
+   y="37.590412"
    sodipodi:linespacing="125%"
    inkscape:label=""><tspan
      sodipodi:role="line"
      id="tspan5918"
-     x="17.572746"
-     y="37.623524">D21</tspan></text>
+     x="17.94445"
+     y="37.590412">A13</tspan></text>
 
 <text
    font-size="4.5"
    id="Label_Pin_L17"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.375px;line-height:125%;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#555555"
-   x="17.572746"
-   y="46.590412"
+   x="17.94445"
+   y="46.623524"
    sodipodi:linespacing="125%"
    inkscape:label=""><tspan
      sodipodi:role="line"
      id="tspan5916"
-     x="17.572746"
-     y="46.590412">D20</tspan></text>
+     x="17.94445"
+     y="46.623524">A12</tspan></text>
 
 <text
    font-size="4.5"
    id="Label_Pin_L16"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.375px;line-height:125%;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#555555"
-   x="17.572746"
-   y="55.59148"
+   x="17.94445"
+   y="55.595753"
    sodipodi:linespacing="125%"
    inkscape:label=""><tspan
      sodipodi:role="line"
      id="tspan5914"
-     x="17.572746"
-     y="55.59148">D19</tspan></text>
+     x="17.94445"
+     y="55.595753">A11</tspan></text>
 
 <text
    font-size="4.5"
    id="Label_Pin_L15"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.375px;line-height:125%;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#555555"
-   x="17.572746"
-   y="64.590408"
+   x="17.94445"
+   y="64.58934"
    sodipodi:linespacing="125%"
    inkscape:label=""><tspan
      sodipodi:role="line"
      id="tspan5912"
-     x="17.572746"
-     y="64.590408">D18</tspan></text>
+     x="17.94445"
+     y="64.58934">A10</tspan></text>
 
 <text
    font-size="4.5"
@@ -675,37 +675,38 @@
    x="17.94445"
    y="73.590408"
    sodipodi:linespacing="125%"
-   inkscape:label=""><tspan
+   inkscape:label=""
+   transform="translate(7.1565672e-8,2.3841858e-6)"><tspan
      sodipodi:role="line"
      id="tspan5910"
      x="17.94445"
-     y="73.590408">A7</tspan></text>
+     y="73.590408">AREF</tspan></text>
 
 <text
    font-size="4.5"
    id="Label_Pin_L13"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.375px;line-height:125%;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#555555"
    x="17.94445"
-   y="82.587204"
+   y="82.591476"
    sodipodi:linespacing="125%"
    inkscape:label=""><tspan
      sodipodi:role="line"
      id="tspan5908"
      x="17.94445"
-     y="82.587204">A6</tspan></text>
+     y="82.591476">A9</tspan></text>
 
 <text
    font-size="4.5"
    id="Label_Pin_L12"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.375px;line-height:125%;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#555555"
    x="17.94445"
-   y="91.557297"
+   y="91.590408"
    sodipodi:linespacing="125%"
    inkscape:label=""><tspan
      sodipodi:role="line"
      id="tspan5906"
      x="17.94445"
-     y="91.557297">A5</tspan></text>
+     y="91.590408">A8</tspan></text>
 
 <text
    font-size="4.5"
@@ -714,102 +715,103 @@
    x="17.94445"
    y="100.59041"
    sodipodi:linespacing="125%"
-   inkscape:label=""><tspan
+   inkscape:label=""
+   transform="translate(7.1565672e-8,2.3841858e-6)"><tspan
      sodipodi:role="line"
      id="tspan5922"
      x="17.94445"
-     y="100.59041">A4</tspan></text>
+     y="100.59041">A7</tspan></text>
 
 <text
    font-size="4.5"
    id="Label_Pin_L10"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.375px;line-height:125%;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#555555"
    x="17.94445"
-   y="109.59041"
+   y="109.5872"
    sodipodi:linespacing="125%"
    inkscape:label=""><tspan
      sodipodi:role="line"
      id="tspan5942"
      x="17.94445"
-     y="109.59041">A3</tspan></text>
+     y="109.5872">A6</tspan></text>
 
 <text
    font-size="4.5"
    id="Label_Pin_L09"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.375px;line-height:125%;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#555555"
    x="17.94445"
-   y="118.62352"
+   y="118.5573"
    sodipodi:linespacing="125%"
    inkscape:label=""><tspan
      sodipodi:role="line"
      id="tspan5962"
      x="17.94445"
-     y="118.62352">A2</tspan></text>
+     y="118.5573">A5</tspan></text>
 
 <text
    font-size="4.5"
    id="Label_Pin_L08"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.375px;line-height:125%;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#555555"
    x="17.94445"
-   y="127.59575"
+   y="127.59041"
    sodipodi:linespacing="125%"
    inkscape:label=""><tspan
      sodipodi:role="line"
      id="tspan5982"
      x="17.94445"
-     y="127.59575">A1</tspan></text>
+     y="127.59041">A4</tspan></text>
 
 <text
    font-size="4.5"
    id="Label_Pin_L07"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.375px;line-height:125%;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#555555"
-   x="17.572746"
+   x="17.94445"
    y="136.59041"
    sodipodi:linespacing="125%"
    inkscape:label=""><tspan
      sodipodi:role="line"
      id="tspan5992"
-     x="17.572746"
-     y="136.59041">MOSI</tspan></text>
+     x="17.94445"
+     y="136.59041">A3</tspan></text>
 
 <text
    font-size="4.5"
    id="Label_Pin_L06"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.375px;line-height:125%;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#555555"
-   x="17.572746"
-   y="145.59041"
+   x="17.94445"
+   y="145.62352"
    sodipodi:linespacing="125%"
    inkscape:label=""><tspan
      sodipodi:role="line"
      id="tspan6012"
-     x="17.572746"
-     y="145.59041">MISO</tspan></text>
+     x="17.94445"
+     y="145.62352">A2</tspan></text>
 
 <text
    font-size="4.5"
    id="Label_Pin_L05"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.375px;line-height:125%;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#555555"
-   x="17.713737"
-   y="154.59041"
+   x="17.94445"
+   y="154.59575"
    sodipodi:linespacing="125%"
    inkscape:label=""><tspan
      sodipodi:role="line"
      id="tspan6032"
-     x="17.713737"
-     y="154.59041">SCK</tspan></text>
+     x="17.94445"
+     y="154.59575">A1</tspan></text>
 
 <text
    font-size="4.5"
    id="Label_Pin_L04"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.375px;line-height:125%;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#555555"
-   x="17.572746"
-   y="163.59041"
+   x="17.94445"
+   y="163.58934"
    sodipodi:linespacing="125%"
    inkscape:label=""><tspan
      sodipodi:role="line"
      id="tspan6044"
-     x="17.572746"
-     y="163.59041">RESET</tspan></text>
+     x="17.94445"
+     y="163.58934">A0</tspan></text>
 
 <text
    font-size="4.5"
@@ -818,7 +820,8 @@
    x="17.94445"
    y="172.26997"
    sodipodi:linespacing="125%"
-   inkscape:label=""><tspan
+   inkscape:label=""
+   transform="translate(7.1565672e-8,2.3841858e-6)"><tspan
      sodipodi:role="line"
      id="tspan6054"
      x="17.94445"
@@ -885,79 +888,79 @@
    font-size="4.5"
    id="Label_Pin_R19"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.375px;line-height:125%;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';text-align:end;writing-mode:lr-tb;text-anchor:end;display:inline;fill:#555555"
-   x="89.982903"
-   y="28.59041"
+   x="90.215752"
+   y="28.595751"
    sodipodi:linespacing="125%"
    inkscape:label=""><tspan
      sodipodi:role="line"
      id="tspan6158"
-     x="89.982903"
-     y="28.59041">DTR</tspan></text>
+     x="90.215752"
+     y="28.595751">D14</tspan></text>
 
 <text
    font-size="4.5"
    id="Label_Pin_R18"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.375px;line-height:125%;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';text-align:end;writing-mode:lr-tb;text-anchor:end;display:inline;fill:#555555"
-   x="90.288383"
-   y="37.623524"
+   x="90.333244"
+   y="37.590412"
    sodipodi:linespacing="125%"
    inkscape:label=""><tspan
      sodipodi:role="line"
      id="tspan6168"
-     x="90.288383"
-     y="37.623524">D22</tspan></text>
+     x="90.333244"
+     y="37.590412">D13</tspan></text>
 
 <text
    font-size="4.5"
    id="Label_Pin_R17"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.375px;line-height:125%;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';text-align:end;writing-mode:lr-tb;text-anchor:end;display:inline;fill:#555555"
-   x="90.469963"
-   y="46.595753"
+   x="90.288383"
+   y="46.623524"
    sodipodi:linespacing="125%"
    inkscape:label=""><tspan
      sodipodi:role="line"
      id="tspan6188"
-     x="90.469963"
-     y="46.595753">D11</tspan></text>
+     x="90.288383"
+     y="46.623524">D12</tspan></text>
 
 <text
    font-size="4.5"
    id="Label_Pin_R16"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.375px;line-height:125%;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';text-align:end;writing-mode:lr-tb;text-anchor:end;display:inline;fill:#555555"
-   x="90.292656"
-   y="55.589344"
+   x="90.469963"
+   y="55.595753"
    sodipodi:linespacing="125%"
    inkscape:label=""><tspan
      sodipodi:role="line"
      id="tspan6198"
-     x="90.292656"
-     y="55.589344">D10</tspan></text>
+     x="90.469963"
+     y="55.595753">D11</tspan></text>
 
 <text
    font-size="4.5"
    id="Label_Pin_R15"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.375px;line-height:125%;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';text-align:end;writing-mode:lr-tb;text-anchor:end;display:inline;fill:#555555"
    x="90.292656"
-   y="64.591476"
+   y="64.58934"
    sodipodi:linespacing="125%"
    inkscape:label=""><tspan
      sodipodi:role="line"
      id="tspan6208"
      x="90.292656"
-     y="64.591476">D9</tspan></text>
+     y="64.58934">D10</tspan></text>
 
 <text
    font-size="4.5"
    id="Label_Pin_R14"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.375px;line-height:125%;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';text-align:end;writing-mode:lr-tb;text-anchor:end;display:inline;fill:#555555"
-   x="90.264885"
-   y="73.590408"
+   x="90.292656"
+   y="73.591476"
    sodipodi:linespacing="125%"
    inkscape:label=""><tspan
      sodipodi:role="line"
      id="tspan6226"
-     x="90.264885"
-     y="73.590408">D8</tspan></text>
+     x="90.292656"
+     y="73.591476">D9</tspan></text>
 
 <text
    font-size="4.5"
@@ -966,7 +969,8 @@
    x="90.055534"
    y="82.590408"
    sodipodi:linespacing="125%"
-   inkscape:label=""><tspan
+   inkscape:label=""
+   transform="translate(3.5782836e-7,2.3841858e-6)"><tspan
      sodipodi:role="line"
      id="tspan6236"
      x="90.055534"
@@ -979,7 +983,8 @@
    x="89.99572"
    y="91.590408"
    sodipodi:linespacing="125%"
-   inkscape:label=""><tspan
+   inkscape:label=""
+   transform="translate(3.5782836e-7,2.3841858e-6)"><tspan
      sodipodi:role="line"
      id="tspan6246"
      x="89.99572"
@@ -989,14 +994,14 @@
    font-size="4.5"
    id="Label_Pin_R11"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.375px;line-height:125%;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';text-align:end;writing-mode:lr-tb;text-anchor:end;display:inline;fill:#555555"
-   x="90.053398"
+   x="90.264885"
    y="100.59041"
    sodipodi:linespacing="125%"
    inkscape:label=""><tspan
      sodipodi:role="line"
      id="tspan6256"
-     x="90.053398"
-     y="100.59041">AREF</tspan></text>
+     x="90.264885"
+     y="100.59041">D8</tspan></text>
 
 <text
    font-size="4.5"
@@ -1005,7 +1010,8 @@
    x="90.279839"
    y="109.59041"
    sodipodi:linespacing="125%"
-   inkscape:label=""><tspan
+   inkscape:label=""
+   transform="translate(3.5782836e-7,2.3841858e-6)"><tspan
      sodipodi:role="line"
      id="tspan6276"
      x="90.279839"
@@ -1056,43 +1062,40 @@
    font-size="4.5"
    id="Label_Pin_R06"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.375px;line-height:125%;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';text-align:end;writing-mode:lr-tb;text-anchor:end;display:inline;fill:#555555"
-   x="90.469963"
-   y="145.59575"
+   x="90.333244"
+   y="145.59041"
    sodipodi:linespacing="125%"
-   inkscape:label=""
-   transform="translate(3.5782836e-7,2.3841858e-6)"><tspan
+   inkscape:label=""><tspan
      sodipodi:role="line"
      id="tspan6332"
-     x="90.469963"
-     y="145.59575">TXD1</tspan></text>
+     x="90.333244"
+     y="145.59041">D3</tspan></text>
 
 <text
    font-size="4.5"
    id="Label_Pin_R05"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.375px;line-height:125%;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';text-align:end;writing-mode:lr-tb;text-anchor:end;display:inline;fill:#555555"
-   x="90.469963"
-   y="154.59575"
+   x="90.288383"
+   y="154.62352"
    sodipodi:linespacing="125%"
-   inkscape:label=""
-   transform="translate(3.5782836e-7,2.3841858e-6)"><tspan
+   inkscape:label=""><tspan
      sodipodi:role="line"
      id="tspan6368"
-     x="90.469963"
-     y="154.59575">RXD1</tspan></text>
+     x="90.288383"
+     y="154.62352">D2</tspan></text>
 
 <text
    font-size="4.5"
    id="Label_Pin_R04"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.375px;line-height:125%;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';text-align:end;writing-mode:lr-tb;text-anchor:end;display:inline;fill:#555555"
-   x="90.292656"
-   y="163.58934"
+   x="90.469963"
+   y="163.59575"
    sodipodi:linespacing="125%"
-   inkscape:label=""
-   transform="translate(3.5782836e-7,2.3841858e-6)"><tspan
+   inkscape:label=""><tspan
      sodipodi:role="line"
      id="tspan6370"
-     x="90.292656"
-     y="163.58934">TXD0</tspan></text>
+     x="90.469963"
+     y="163.59575">D1</tspan></text>
 
 <text
    font-size="4.5"
@@ -1106,7 +1109,7 @@
      sodipodi:role="line"
      id="tspan6372"
      x="90.292656"
-     y="172.58934">RXD0</tspan></text>
+     y="172.58934">D0</tspan></text>
 
 <text
    font-size="4.5"
@@ -1414,4 +1417,16 @@
      x="198.21576"
      y="100.59041"
      id="tspan9639">DIO4</tspan></text>
+<text
+   font-size="4.5"
+   id="Label_Pin_R20"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.375px;line-height:125%;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';text-align:end;writing-mode:lr-tb;text-anchor:end;display:inline;fill:#555555"
+   x="90.314018"
+   y="19.562639"
+   sodipodi:linespacing="125%"
+   inkscape:label=""><tspan
+     sodipodi:role="line"
+     id="tspan6158-4"
+     x="90.314018"
+     y="19.562639">D15</tspan></text>
 </g></svg>
