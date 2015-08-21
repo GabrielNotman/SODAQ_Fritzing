@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="36mm"
-   height="60mm"
-   viewBox="0 0 127.55906 212.59843"
+   width="1.4in"
+   height="2.5999999in"
+   viewBox="0 0 126 233.99999"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="3.1091957"
-     inkscape:cx="21.620838"
-     inkscape:cy="89.055077"
+     inkscape:cx="33.039798"
+     inkscape:cy="123.96785"
      inkscape:document-units="mm"
      inkscape:current-layer="layer2"
      showgrid="true"
@@ -42,17 +42,18 @@
      inkscape:snap-bbox="true"
      inkscape:snap-bbox-midpoints="true"
      inkscape:snap-bbox-edge-midpoints="false"
-     inkscape:bbox-nodes="true"
+     inkscape:bbox-nodes="false"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
-     inkscape:window-x="1912"
+     inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:snap-grids="true"
+     inkscape:snap-grids="false"
      inkscape:snap-to-guides="false"
      inkscape:snap-center="false"
      inkscape:snap-object-midpoints="true"
-     inkscape:snap-others="true">
+     inkscape:snap-others="true"
+     units="in">
     <inkscape:grid
        type="xygrid"
        id="grid4136"
@@ -92,10 +93,11 @@
      id="layer3"
      inkscape:label="silkscreen"
      style="display:inline"
+     transform="translate(0,21.401561)"
      sodipodi:insensitive="true">
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.00000012;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 67.677734,5.3144531 c -7.086532,0 -3.897758,12.4023439 -10.984375,12.4023439 l -46.064453,0 c -3.9259221,0 -7.0859373,3.160059 -7.0859372,7.085937 l 0,180.708986 c 0,3.926 3.1600151,7.08594 7.0859372,7.08594 l 104.669924,0 c 3.92596,0 7.08594,-3.15994 7.08594,-7.08594 l 0,-180.708986 c 0,-3.925878 -3.15998,-7.085937 -7.08594,-7.085937 l -9,0 c -6.850889,10e-6 -3.89777,-12.4023439 -10.984377,-12.4023439 z"
+       d="m 67.677734,-3.6447766 c -7.086532,0 -3.897758,12.402344 -10.984375,12.402344 l -46.064453,0 c -3.9259221,0 -7.0859373,3.1600586 -7.0859372,7.0859366 l 0,180.708986 c 0,3.926 3.1600151,7.08594 7.0859372,7.08594 l 104.669924,0 c 3.92596,0 7.08594,-3.15994 7.08594,-7.08594 l 0,-180.708986 c 0,-3.925878 -3.15998,-7.0859366 -7.08594,-7.0859366 l -9,0 c -6.850889,1e-5 -3.89777,-12.402344 -10.984377,-12.402344 z"
        id="silkscreen"
        inkscape:connector-curvature="0"
        inkscape:label=""
@@ -105,13 +107,88 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="copper"
-     style="display:inline">
+     style="display:inline"
+     transform="translate(0,21.401561)"
+     sodipodi:insensitive="true">
     <g
        id="copper0"
-       inkscape:label="">
+       inkscape:label=""
+       transform="translate(0,-8.9592296)">
       <g
          inkscape:label=""
          id="copper1">
+        <rect
+           style="display:inline;fill:#f7bd13;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="connector61pin"
+           width="1.8000002"
+           height="1.8000002"
+           x="90.374008"
+           y="120.05237"
+           inkscape:label="" />
+        <rect
+           style="display:inline;fill:#f7bd13;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="connector64pin"
+           width="1.8000002"
+           height="1.8000002"
+           x="94.874008"
+           y="115.55237"
+           inkscape:label="" />
+        <rect
+           style="display:inline;fill:#f7bd13;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="connector63pin"
+           width="1.8000002"
+           height="1.8000002"
+           x="94.874008"
+           y="120.05237"
+           inkscape:label="" />
+        <rect
+           style="display:inline;fill:#f7bd13;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="connector65pin"
+           width="1.8000002"
+           height="1.8000002"
+           x="99.37558"
+           y="120.0508"
+           inkscape:label="" />
+        <rect
+           style="display:inline;fill:#f7bd13;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="connector66pin"
+           width="1.8000002"
+           height="1.8000002"
+           x="99.37558"
+           y="115.5508"
+           inkscape:label="" />
+        <rect
+           style="display:inline;fill:#f7bd13;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="connector68pin"
+           width="1.8000002"
+           height="1.8000002"
+           x="103.87402"
+           y="115.55237"
+           inkscape:label="" />
+        <rect
+           style="display:inline;fill:#f7bd13;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="connector70pin"
+           width="1.8000002"
+           height="1.8000002"
+           x="108.37558"
+           y="115.5508"
+           inkscape:label="" />
+        <rect
+           style="display:inline;fill:#f7bd13;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="connector69pin"
+           width="1.8000002"
+           height="1.8000002"
+           x="108.37558"
+           y="120.0508"
+           inkscape:label="" />
+        <rect
+           style="display:inline;fill:#f7bd13;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="connector67pin"
+           width="1.8000002"
+           height="1.8000002"
+           x="103.87559"
+           y="120.0508"
+           inkscape:label="" />
         <path
            style="display:inline;fill:#f7bd13;fill-opacity:1;stroke:none"
            inkscape:connector-curvature="0"
@@ -474,7 +551,7 @@
            inkscape:label="" />
         <rect
            style="fill:#f7bd13;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="connector61pin"
+           id="connector71pin"
            width="3.5433073"
            height="10.629922"
            x="24.80315"
@@ -482,7 +559,7 @@
            inkscape:label="" />
         <rect
            style="display:inline;fill:#f7bd13;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="connector62pin"
+           id="connector72pin"
            width="3.5433075"
            height="10.629923"
            x="31.889765"
@@ -490,7 +567,7 @@
            inkscape:label="" />
         <rect
            style="display:inline;fill:#f7bd13;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="connector63pin"
+           id="connector73pin"
            width="3.5433075"
            height="10.629923"
            x="55.629925"
@@ -498,11 +575,19 @@
            inkscape:label="" />
         <rect
            style="display:inline;fill:#f7bd13;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="connector64pin"
+           id="connector74pin"
            width="3.5433078"
            height="10.629924"
            x="62.716541"
            y="184.60631"
+           inkscape:label="" />
+        <rect
+           style="display:inline;fill:#f7bd13;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="connector62pin"
+           width="1.8000001"
+           height="1.8000001"
+           x="90.37558"
+           y="115.5508"
            inkscape:label="" />
       </g>
     </g>

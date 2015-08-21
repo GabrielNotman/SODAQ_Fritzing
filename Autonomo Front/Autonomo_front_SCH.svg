@@ -21,7 +21,7 @@
    sodipodi:docname="Autonomo_front_SCH.svg"><metadata
      id="metadata111"><rdf:RDF><cc:Work
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
      id="defs109" /><sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -36,9 +36,9 @@
      id="namedview107"
      showgrid="true"
      inkscape:zoom="2.3231273"
-     inkscape:cx="63.853437"
-     inkscape:cy="95.619912"
-     inkscape:window-x="-8"
+     inkscape:cx="-15.802634"
+     inkscape:cy="94.706996"
+     inkscape:window-x="1912"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer5"
@@ -84,6 +84,7 @@
      x="54.060478"
      y="33.68784">SODAQ</tspan></text>
 
+
 <text
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.31250048px;line-height:125%;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle"
    id="Part_Label2"
@@ -96,6 +97,7 @@
      id="tspan4510"
      x="53.90374"
      y="40.888035">Autonomo</tspan></text>
+
 
 <rect
    style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:0.91651392;stroke-linecap:round"
@@ -117,6 +119,7 @@
      x="171.07503"
      y="33.69791">Bee</tspan></text>
 
+
 <text
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.31250048px;line-height:125%;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;display:inline"
    id="Part_Label4"
@@ -130,6 +133,38 @@
      x="170.91829"
      y="40.898106">Socket</tspan></text>
 
+
+<rect
+   style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:0.91651392;stroke-linecap:round"
+   height="53.083492"
+   width="71.083488"
+   y="117.45824"
+   x="135.45825"
+   id="bee_symbol-4"
+   inkscape:label="" /><text
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.31250048px;line-height:125%;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;display:inline"
+   id="Part_Label5"
+   font-size="6"
+   x="170.95052"
+   y="140.83604"
+   sodipodi:linespacing="125%"
+   inkscape:label=""><tspan
+     sodipodi:role="line"
+     id="tspan4508-7-5"
+     x="170.95052"
+     y="140.83604">Serial Wire</tspan></text>
+<text
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.31250048px;line-height:125%;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;display:inline"
+   id="Part_Label4-5"
+   font-size="6"
+   x="170.79378"
+   y="148.03624"
+   sodipodi:linespacing="125%"
+   inkscape:label=""><tspan
+     sodipodi:role="line"
+     id="tspan4510-5-3"
+     x="170.79378"
+     y="148.03624">Debug</tspan></text>
 </g><g
      inkscape:groupmode="layer"
      id="layer3"
@@ -281,28 +316,28 @@
        y1="198.35498"
        x2="35.990032"
        y2="205.55499"
-       id="connector61pin"
+       id="connector71pin"
        style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
        inkscape:label="" /><line
        x1="44.990032"
        y1="198.35498"
        x2="44.990032"
        y2="205.55499"
-       id="connector62pin"
+       id="connector72pin"
        style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
        inkscape:label="" /><line
        x1="62.990032"
        y1="198.35498"
        x2="62.990032"
        y2="205.55499"
-       id="connector63pin"
+       id="connector73pin"
        style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
        inkscape:label="" /><line
        x1="71.990028"
        y1="198.35498"
        x2="71.990028"
        y2="205.55499"
-       id="connector64pin"
+       id="connector74pin"
        style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
        inkscape:label="" /><line
        x1="106.54504"
@@ -584,6 +619,76 @@
        y2="17.999987"
        id="connector60pin"
        style="display:inline;fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+       inkscape:label="" /><line
+       x1="134.645"
+       y1="125.99998"
+       x2="127.44501"
+       y2="125.99998"
+       id="connector61pin"
+       style="display:inline;fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+       inkscape:label="" /><line
+       x1="134.645"
+       y1="134.99998"
+       x2="127.44501"
+       y2="134.99998"
+       id="connector63pin"
+       style="display:inline;fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+       inkscape:label="" /><line
+       x1="134.645"
+       y1="143.99998"
+       x2="127.44501"
+       y2="143.99998"
+       id="65pin"
+       style="display:inline;fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+       inkscape:label="" /><line
+       x1="134.645"
+       y1="152.99998"
+       x2="127.44501"
+       y2="152.99998"
+       id="connector67pin"
+       style="display:inline;fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+       inkscape:label="" /><line
+       x1="134.645"
+       y1="162"
+       x2="127.44501"
+       y2="162"
+       id="connector69pin"
+       style="display:inline;fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+       inkscape:label="" /><line
+       x1="214.55498"
+       y1="125.99998"
+       x2="207.35498"
+       y2="125.99998"
+       id="connector62pin"
+       style="display:inline;fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+       inkscape:label="" /><line
+       x1="214.55498"
+       y1="134.99998"
+       x2="207.35498"
+       y2="134.99998"
+       id="connector64pin"
+       style="display:inline;fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+       inkscape:label="" /><line
+       x1="214.55498"
+       y1="143.99998"
+       x2="207.35498"
+       y2="143.99998"
+       id="connector66pin"
+       style="display:inline;fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+       inkscape:label="" /><line
+       x1="214.55498"
+       y1="153"
+       x2="207.35498"
+       y2="153"
+       id="connector68pin"
+       style="display:inline;fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+       inkscape:label="" /><line
+       x1="214.55498"
+       y1="162"
+       x2="207.35498"
+       y2="162"
+       id="connector70pin"
+       style="display:inline;fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
        inkscape:label="" /></g><g
      inkscape:groupmode="layer"
      id="layer5"
@@ -603,6 +708,7 @@
      x="17.754326"
      y="19.588274">GND</tspan></text>
 
+
 <text
    font-size="4.5"
    id="Label_Pin_L19"
@@ -615,6 +721,7 @@
      id="tspan5920"
      x="17.572746"
      y="28.59041">RESET</tspan></text>
+
 
 <text
    font-size="4.5"
@@ -629,6 +736,7 @@
      x="17.94445"
      y="37.590412">A13</tspan></text>
 
+
 <text
    font-size="4.5"
    id="Label_Pin_L17"
@@ -641,6 +749,7 @@
      id="tspan5916"
      x="17.94445"
      y="46.623524">A12</tspan></text>
+
 
 <text
    font-size="4.5"
@@ -655,6 +764,7 @@
      x="17.94445"
      y="55.595753">A11</tspan></text>
 
+
 <text
    font-size="4.5"
    id="Label_Pin_L15"
@@ -667,6 +777,7 @@
      id="tspan5912"
      x="17.94445"
      y="64.58934">A10</tspan></text>
+
 
 <text
    font-size="4.5"
@@ -682,6 +793,7 @@
      x="17.94445"
      y="73.590408">AREF</tspan></text>
 
+
 <text
    font-size="4.5"
    id="Label_Pin_L13"
@@ -695,6 +807,7 @@
      x="17.94445"
      y="82.591476">A9</tspan></text>
 
+
 <text
    font-size="4.5"
    id="Label_Pin_L12"
@@ -707,6 +820,7 @@
      id="tspan5906"
      x="17.94445"
      y="91.590408">A8</tspan></text>
+
 
 <text
    font-size="4.5"
@@ -722,6 +836,7 @@
      x="17.94445"
      y="100.59041">A7</tspan></text>
 
+
 <text
    font-size="4.5"
    id="Label_Pin_L10"
@@ -734,6 +849,7 @@
      id="tspan5942"
      x="17.94445"
      y="109.5872">A6</tspan></text>
+
 
 <text
    font-size="4.5"
@@ -748,6 +864,7 @@
      x="17.94445"
      y="118.5573">A5</tspan></text>
 
+
 <text
    font-size="4.5"
    id="Label_Pin_L08"
@@ -760,6 +877,7 @@
      id="tspan5982"
      x="17.94445"
      y="127.59041">A4</tspan></text>
+
 
 <text
    font-size="4.5"
@@ -774,6 +892,7 @@
      x="17.94445"
      y="136.59041">A3</tspan></text>
 
+
 <text
    font-size="4.5"
    id="Label_Pin_L06"
@@ -786,6 +905,7 @@
      id="tspan6012"
      x="17.94445"
      y="145.62352">A2</tspan></text>
+
 
 <text
    font-size="4.5"
@@ -800,6 +920,7 @@
      x="17.94445"
      y="154.59575">A1</tspan></text>
 
+
 <text
    font-size="4.5"
    id="Label_Pin_L04"
@@ -812,6 +933,7 @@
      id="tspan6044"
      x="17.94445"
      y="163.58934">A0</tspan></text>
+
 
 <text
    font-size="4.5"
@@ -826,6 +948,7 @@
      id="tspan6054"
      x="17.94445"
      y="172.26997">V_BATT</tspan></text>
+
 
 <text
    font-size="4.5"
@@ -843,6 +966,7 @@
    style="font-size:2.5px"
    id="tspan9437">SW</tspan></tspan></text>
 
+
 <text
    font-size="4.5"
    id="Label_Pin_L01"
@@ -855,6 +979,7 @@
      id="tspan6074"
      x="17.754326"
      y="190.58827">GND</tspan></text>
+
 
 <text
    font-size="4.5"
@@ -870,6 +995,7 @@
      x="90.055534"
      y="190.5573">5V</tspan></text>
 
+
 <text
    font-size="4.5"
    id="Label_Pin_R02"
@@ -884,6 +1010,7 @@
      x="90.055534"
      y="181.59041">3.3V</tspan></text>
 
+
 <text
    font-size="4.5"
    id="Label_Pin_R19"
@@ -896,6 +1023,7 @@
      id="tspan6158"
      x="90.215752"
      y="28.595751">D14</tspan></text>
+
 
 <text
    font-size="4.5"
@@ -910,6 +1038,7 @@
      x="90.333244"
      y="37.590412">D13</tspan></text>
 
+
 <text
    font-size="4.5"
    id="Label_Pin_R17"
@@ -922,6 +1051,7 @@
      id="tspan6188"
      x="90.288383"
      y="46.623524">D12</tspan></text>
+
 
 <text
    font-size="4.5"
@@ -936,6 +1066,7 @@
      x="90.469963"
      y="55.595753">D11</tspan></text>
 
+
 <text
    font-size="4.5"
    id="Label_Pin_R15"
@@ -949,6 +1080,7 @@
      x="90.292656"
      y="64.58934">D10</tspan></text>
 
+
 <text
    font-size="4.5"
    id="Label_Pin_R14"
@@ -961,6 +1093,7 @@
      id="tspan6226"
      x="90.292656"
      y="73.591476">D9</tspan></text>
+
 
 <text
    font-size="4.5"
@@ -976,6 +1109,7 @@
      x="90.055534"
      y="82.590408">SDA</tspan></text>
 
+
 <text
    font-size="4.5"
    id="Label_Pin_R12"
@@ -990,6 +1124,7 @@
      x="89.99572"
      y="91.590408">SCL</tspan></text>
 
+
 <text
    font-size="4.5"
    id="Label_Pin_R11"
@@ -1002,6 +1137,7 @@
      id="tspan6256"
      x="90.264885"
      y="100.59041">D8</tspan></text>
+
 
 <text
    font-size="4.5"
@@ -1017,6 +1153,7 @@
      x="90.279839"
      y="109.59041">D7</tspan></text>
 
+
 <text
    font-size="4.5"
    id="Label_Pin_R09"
@@ -1029,6 +1166,7 @@
      id="tspan6286"
      x="90.241386"
      y="118.5872">D6</tspan></text>
+
 
 <text
    font-size="4.5"
@@ -1044,6 +1182,7 @@
      x="90.314018"
      y="127.5573">D5</tspan></text>
 
+
 <text
    font-size="4.5"
    id="Label_Pin_R07"
@@ -1058,6 +1197,7 @@
      x="90.215752"
      y="136.59041">D4</tspan></text>
 
+
 <text
    font-size="4.5"
    id="Label_Pin_R06"
@@ -1070,6 +1210,7 @@
      id="tspan6332"
      x="90.333244"
      y="145.59041">D3</tspan></text>
+
 
 <text
    font-size="4.5"
@@ -1084,6 +1225,7 @@
      x="90.288383"
      y="154.62352">D2</tspan></text>
 
+
 <text
    font-size="4.5"
    id="Label_Pin_R04"
@@ -1096,6 +1238,7 @@
      id="tspan6370"
      x="90.469963"
      y="163.59575">D1</tspan></text>
+
 
 <text
    font-size="4.5"
@@ -1111,6 +1254,7 @@
      x="90.292656"
      y="172.58934">D0</tspan></text>
 
+
 <text
    font-size="4.5"
    id="Label_Pin_LIPO_V"
@@ -1124,6 +1268,7 @@
      id="tspan6610"
      x="-189.42509"
      y="37.240078">LIPO_V</tspan></text>
+
 
 <text
    font-size="4.5"
@@ -1139,6 +1284,7 @@
      x="-189.42509"
      y="46.240078">LIPO_GND</tspan></text>
 
+
 <text
    font-size="4.5"
    id="Label_Pin_SOLAR_V"
@@ -1152,6 +1298,7 @@
      id="tspan6650"
      x="-189.22215"
      y="64.240082">SOLAR_V</tspan></text>
+
 
 <text
    font-size="4.5"
@@ -1167,6 +1314,7 @@
      x="-189.22215"
      y="73.240082">SOLAR_GND</tspan></text>
 
+
 <text
    font-size="4.5"
    id="Label_Pin_B01"
@@ -1179,6 +1327,7 @@
      id="tspan5677-9"
      x="143.94446"
      y="19.59041">VDD</tspan></text>
+
 
 <text
    font-size="4.5"
@@ -1193,6 +1342,7 @@
      x="143.57275"
      y="28.59041">DOUT</tspan></text>
 
+
 <text
    font-size="4.5"
    id="Label_Pin_B03"
@@ -1205,6 +1355,7 @@
      id="tspan5918-0"
      x="143.57275"
      y="37.590412">DIN</tspan></text>
+
 
 <text
    font-size="4.5"
@@ -1219,6 +1370,7 @@
      x="143.57275"
      y="46.590412">DIO12</tspan></text>
 
+
 <text
    font-size="4.5"
    id="Label_Pin_B05"
@@ -1231,6 +1383,7 @@
      id="tspan5914-7"
      x="143.57275"
      y="55.590412">RESET</tspan></text>
+
 
 <text
    font-size="4.5"
@@ -1245,6 +1398,7 @@
      x="143.57275"
      y="64.590408">RSSI</tspan></text>
 
+
 <text
    font-size="4.5"
    id="Label_Pin_B07"
@@ -1257,6 +1411,7 @@
      id="tspan5910-7"
      x="143.57275"
      y="73.590408">DIO11</tspan></text>
+
 
 <text
    font-size="4.5"
@@ -1271,6 +1426,7 @@
      x="143.57275"
      y="82.590408">RES</tspan></text>
 
+
 <text
    font-size="4.5"
    id="Label_Pin_B09"
@@ -1283,6 +1439,7 @@
      id="tspan5906-0"
      x="143.57275"
      y="91.590408">DTR</tspan></text>
+
 
 <text
    font-size="4.5"
@@ -1297,6 +1454,7 @@
      x="143.75433"
      y="100.58827">GND</tspan></text>
 
+
 <text
    font-size="4.5"
    id="Label_Pin_B20"
@@ -1309,6 +1467,7 @@
      id="tspan6158-8"
      x="198.29266"
      y="19.59041">DIO0</tspan></text>
+
 <text
    font-size="4.5"
    id="Label_Pin_B19"
@@ -1321,6 +1480,7 @@
      id="tspan6168-5"
      x="198.46997"
      y="28.59041">DIO1</tspan></text>
+
 <text
    font-size="4.5"
    id="Label_Pin_B18"
@@ -1333,6 +1493,7 @@
      id="tspan6188-8"
      x="198.28839"
      y="37.590412">DIO2</tspan></text>
+
 <text
    font-size="4.5"
    id="Label_Pin_B17"
@@ -1345,6 +1506,7 @@
      x="198.33325"
      y="46.590412"
      id="tspan9647">DIO3</tspan></text>
+
 <text
    font-size="4.5"
    id="Label_Pin_B16"
@@ -1357,6 +1519,7 @@
      id="tspan6208-4"
      x="198.25208"
      y="55.590412">RTS</tspan></text>
+
 <text
    font-size="4.5"
    id="Label_Pin_B15"
@@ -1369,6 +1532,7 @@
      id="tspan6226-5"
      x="198.31403"
      y="64.590408">DIO5</tspan></text>
+
 <text
    font-size="4.5"
    id="Label_Pin_B14"
@@ -1381,6 +1545,7 @@
      id="tspan6236-4"
      x="198.25208"
      y="73.590408">RES</tspan></text>
+
 <text
    font-size="4.5"
    id="Label_Pin_B13"
@@ -1393,6 +1558,7 @@
      id="tspan6246-0"
      x="198.29266"
      y="82.590408">DIO9</tspan></text>
+
 <text
    font-size="4.5"
    id="Label_Pin_B12"
@@ -1405,6 +1571,7 @@
      x="198.25208"
      y="91.590408"
      id="tspan9643">CTS</tspan></text>
+
 <text
    font-size="4.5"
    id="Label_Pin_B11"
@@ -1417,6 +1584,7 @@
      x="198.21576"
      y="100.59041"
      id="tspan9639">DIO4</tspan></text>
+
 <text
    font-size="4.5"
    id="Label_Pin_R20"
@@ -1429,4 +1597,125 @@
      id="tspan6158-4"
      x="90.314018"
      y="19.562639">D15</tspan></text>
+
+<text
+   font-size="4.5"
+   id="Label_Pin_SWD01"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.375px;line-height:125%;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#555555"
+   x="144"
+   y="127.56264"
+   sodipodi:linespacing="125%"
+   inkscape:label=""><tspan
+     sodipodi:role="line"
+     id="tspan5912-8-6"
+     x="144"
+     y="127.56264">VCC</tspan></text>
+<text
+   font-size="4.5"
+   id="Label_Pin_SWD03"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.375px;line-height:125%;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#555555"
+   x="143.73297"
+   y="136.56264"
+   sodipodi:linespacing="125%"
+   inkscape:label=""><tspan
+     sodipodi:role="line"
+     id="tspan5910-7-6"
+     x="143.73297"
+     y="136.56264">GND</tspan></text>
+<text
+   font-size="4.5"
+   id="Label_Pin_SWD05"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.375px;line-height:125%;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#555555"
+   x="143.73297"
+   y="145.56264"
+   sodipodi:linespacing="125%"
+   inkscape:label=""><tspan
+     sodipodi:role="line"
+     id="tspan5908-5-7"
+     x="143.73297"
+     y="145.56264">GND</tspan></text>
+<text
+   font-size="4.5"
+   id="Label_Pin_SWD07"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.375px;line-height:125%;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#555555"
+   x="143.57489"
+   y="154.54234"
+   sodipodi:linespacing="125%"
+   inkscape:label=""><tspan
+     sodipodi:role="line"
+     id="tspan5906-0-8"
+     x="143.57489"
+     y="154.54234">N/U</tspan></text>
+<text
+   font-size="4.5"
+   id="Label_Pin_SWD09"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.375px;line-height:125%;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#555555"
+   x="143.73297"
+   y="163.56264"
+   sodipodi:linespacing="125%"
+   inkscape:label=""><tspan
+     sodipodi:role="line"
+     id="tspan5922-6-0"
+     x="143.73297"
+     y="163.56264">GND</tspan></text>
+<text
+   font-size="4.5"
+   id="Label_Pin_SWD02"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.375px;line-height:125%;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';text-align:end;writing-mode:lr-tb;text-anchor:end;display:inline;fill:#555555"
+   x="198.2713"
+   y="127.56477"
+   sodipodi:linespacing="125%"
+   inkscape:label=""><tspan
+     sodipodi:role="line"
+     id="tspan6226-5-8"
+     x="198.2713"
+     y="127.56477">SWDIO</tspan></text>
+<text
+   font-size="4.5"
+   id="Label_Pin_SWD04"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.375px;line-height:125%;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';text-align:end;writing-mode:lr-tb;text-anchor:end;display:inline;fill:#555555"
+   x="198.00427"
+   y="136.56264"
+   sodipodi:linespacing="125%"
+   inkscape:label=""><tspan
+     sodipodi:role="line"
+     id="tspan6236-4-5"
+     x="198.00427"
+     y="136.56264">SWCLK</tspan></text>
+<text
+   font-size="4.5"
+   id="Label_Pin_SWD06"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.375px;line-height:125%;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';text-align:end;writing-mode:lr-tb;text-anchor:end;display:inline;fill:#555555"
+   x="198.2713"
+   y="145.56477"
+   sodipodi:linespacing="125%"
+   inkscape:label=""><tspan
+     sodipodi:role="line"
+     id="tspan6246-0-2"
+     x="198.2713"
+     y="145.56477">SWO</tspan></text>
+<text
+   font-size="4.5"
+   id="Label_Pin_SWD08"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.375px;line-height:125%;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';text-align:end;writing-mode:lr-tb;text-anchor:end;display:inline;fill:#555555"
+   x="198.39948"
+   y="154.54234"
+   sodipodi:linespacing="125%"
+   inkscape:label=""><tspan
+     sodipodi:role="line"
+     x="198.39948"
+     y="154.54234"
+     id="tspan9643-7">N/U</tspan></text>
+<text
+   font-size="4.5"
+   id="Label_Pin_SWD10"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.375px;line-height:125%;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';text-align:end;writing-mode:lr-tb;text-anchor:end;display:inline;fill:#555555"
+   x="198.047"
+   y="163.56264"
+   sodipodi:linespacing="125%"
+   inkscape:label=""><tspan
+     sodipodi:role="line"
+     x="198.047"
+     y="163.56264"
+     id="tspan9639-4">RESET</tspan></text>
 </g></svg>
