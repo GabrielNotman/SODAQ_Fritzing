@@ -72,10 +72,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.8284271"
-     inkscape:cx="27.402981"
-     inkscape:cy="108.6834"
+     inkscape:cx="-24.252055"
+     inkscape:cy="138.66533"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer5"
      showgrid="true"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -485,374 +485,8 @@
          id="rect8114-6-8"
          style="display:inline;fill:#7f8089;fill-opacity:1;stroke:none;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
-  </g>
-  <g
-     inkscape:label="Connectors"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(0,-818.36227)"
-     style="display:inline"
-     sodipodi:insensitive="true">
-    <g
-       id="JP_LIPO"
-       inkscape:label=""
-       transform="translate(0,-9.0170001)">
-      <path
-         sodipodi:nodetypes="ccccccccccccc"
-         id="rect12127-9"
-         d="m 15.944883,1024.0157 10e-7,25.6883 2.65625,0 0,2.6582 23.032727,0 0,-2.6582 2.657481,0 0,-25.6883 -2.657481,0 0,7.0867 -23.032727,0 0.0012,-7.0867 z"
-         style="fill:#f1f3e6;fill-opacity:1;stroke:none;stroke-width:0;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         inkscape:connector-curvature="0" />
-      <rect
-         style="fill:#d6d1b8;fill-opacity:1;stroke:none;stroke-width:0;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect12129-7-6-6-4"
-         width="2.6574802"
-         height="2.6574802"
-         x="21.258928"
-         y="1049.7045" />
-      <rect
-         style="fill:#d6d1b8;fill-opacity:1;stroke:none;stroke-width:0;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect12129-7-6-6-5-9"
-         width="2.6574802"
-         height="2.6574802"
-         x="21.258928"
-         y="1031.1021" />
-      <rect
-         style="fill:#d6d1b8;fill-opacity:1;stroke:none;stroke-width:0;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect12129-7-6-6-58-4"
-         width="2.6574802"
-         height="2.6574802"
-         x="36.318901"
-         y="1031.1021" />
-      <rect
-         style="fill:#aca895;fill-opacity:1;stroke:none;stroke-width:0;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect12129-7-6-6-2-6"
-         width="2.6574802"
-         height="15.059055"
-         x="36.318901"
-         y="1033.7595" />
-      <rect
-         style="fill:#aca895;fill-opacity:1;stroke:none;stroke-width:0;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect12129-7-6-6-2-8-5"
-         width="2.6574802"
-         height="15.059055"
-         x="21.258928"
-         y="1033.7595" />
-      <rect
-         style="fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:0;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect12129-7-6-6-5-1-4"
-         width="2.8346457"
-         height="10.629653"
-         x="24.803152"
-         y="1020.4724" />
-      <rect
-         style="fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:0;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect12129-7-6-6-5-3-6"
-         width="2.8346457"
-         height="10.629653"
-         x="32.598427"
-         y="1020.4724" />
-    </g>
     <g
        style="display:inline"
-       id="MICRO-USB_B"
-       transform="matrix(-1.2360015,0,0,0.93718454,100.96426,1028.9788)"
-       inkscape:label="">
-      <g
-         id="g8589">
-        <rect
-           id="rect8591"
-           height="0.64999998"
-           width="0.98799998"
-           y="-0.052999999"
-           x="7.3260002"
-           style="fill:#666666" />
-        <rect
-           id="rect8593"
-           height="0.514"
-           width="0.088"
-           y="-0.052999999"
-           x="7.3260002"
-           style="fill:#999999" />
-      </g>
-      <g
-         id="g8595">
-        <rect
-           id="rect8597"
-           height="0.64999998"
-           width="0.99000001"
-           y="-0.052999999"
-           x="9.1709995"
-           style="fill:#666666" />
-        <rect
-           id="rect8599"
-           height="0.514"
-           width="0.088"
-           y="-0.052999999"
-           x="9.1709995"
-           style="fill:#999999" />
-      </g>
-      <g
-         id="g8601">
-        <rect
-           id="rect8603"
-           height="0.64999998"
-           width="0.99000001"
-           y="-0.052999999"
-           x="11.01"
-           style="fill:#666666" />
-        <rect
-           id="rect8605"
-           height="0.514"
-           width="0.088"
-           y="-0.052999999"
-           x="11.01"
-           style="fill:#999999" />
-      </g>
-      <g
-         id="g8607">
-        <rect
-           id="rect8609"
-           height="0.64999998"
-           width="0.99000001"
-           y="-0.052999999"
-           x="12.854"
-           style="fill:#666666" />
-        <rect
-           id="rect8611"
-           height="0.514"
-           width="0.088"
-           y="-0.052999999"
-           x="12.854"
-           style="fill:#999999" />
-      </g>
-      <g
-         id="g8613">
-        <rect
-           id="rect8615"
-           height="0.64999998"
-           width="0.99000001"
-           y="-0.052999999"
-           x="14.696"
-           style="fill:#666666" />
-        <rect
-           id="rect8617"
-           height="0.514"
-           width="0.090000004"
-           y="-0.052999999"
-           x="14.696"
-           style="fill:#999999" />
-      </g>
-      <g
-         id="g8619"
-         transform="translate(-5.5040004,-2.621032)">
-        <polygon
-           id="polygon8621"
-           points="20.887,17.319 2.205,17.319 2.1,15.675 2.1,0.314 20.944,0.314 20.944,15.489 "
-           style="fill:#b3b3b3" />
-        <rect
-           id="rect8623"
-           height="3.0409999"
-           width="1.832"
-           y="6.927"
-           x="21.143"
-           style="fill:#666666" />
-        <rect
-           id="rect8625"
-           height="3.0409999"
-           width="1.829"
-           y="6.927"
-           x="0.041000001"
-           style="fill:#666666" />
-        <rect
-           id="rect8627"
-           height="18.639"
-           width="10.29"
-           y="0.31400001"
-           x="6.362"
-           style="fill:#333333" />
-        <rect
-           id="rect8629"
-           height="1.082"
-           width="1.003"
-           y="18.135"
-           x="0.86699998"
-           style="fill:#b3b3b3" />
-        <rect
-           id="rect8631"
-           height="1.082"
-           width="0.64300001"
-           y="18.135"
-           x="1.229"
-           style="fill:#cccccc" />
-        <rect
-           id="rect8633"
-           height="1.082"
-           width="1"
-           y="18.135"
-           x="21.143"
-           style="fill:#b3b3b3" />
-        <rect
-           id="rect8635"
-           height="1.082"
-           width="0.64300001"
-           y="18.135"
-           x="21.143"
-           style="fill:#cccccc" />
-        <path
-           id="path8637"
-           d="m 17.755,0.313 0,1.633 -1.605,0 0,-1.632 -0.461,0 0,0.566 -8.363,0 0,-0.566 -0.525,0 0,1.635 -1.607,0 0,-1.636 -3.324,0 0,18.791 19.271,0 0,-18.791 -3.386,0 z M 6.801,14.17 l 0,0.813 -1.594,0 0,-0.881 C 4.781,13.824 4.5,13.342 4.5,12.795 4.5,12.197 4.719,11.69 5.208,11.426 l 0,0 0,-4.48 1.592,0 0,4.482 c 0.488,0.264 0.826,0.773 0.826,1.371 0,0.598 -0.337,1.107 -0.825,1.371 z m 10.887,0 0,0.813 -1.592,0 0,-0.881 c -0.426,-0.277 -0.707,-0.76 -0.707,-1.307 0,-0.598 0.217,-1.105 0.707,-1.369 l 0,0 0,-4.48 1.592,0 0,4.482 c 0.49,0.264 0.826,0.773 0.826,1.371 0,0.598 -0.336,1.107 -0.826,1.371 z"
-           inkscape:connector-curvature="0"
-           style="fill:#e6e6e6" />
-        <polygon
-           id="polygon8639"
-           points="3.4,0.313 2.275,19.108 1.87,19.108 1.87,0.313 "
-           style="fill:#f2f2f2" />
-        <polygon
-           id="polygon8641"
-           points="21.143,0.313 21.143,19.108 20.575,6.343 20.009,0.313 "
-           style="fill:#999999" />
-        <rect
-           id="rect8643"
-           height="0.12899999"
-           width="1.592"
-           y="6.948"
-           x="5.2069998"
-           style="fill:#cccccc" />
-        <rect
-           id="rect8645"
-           height="0.12899999"
-           width="1.59"
-           y="6.948"
-           x="16.098"
-           style="fill:#cccccc" />
-      </g>
-    </g>
-    <g
-       id="JP_SOLAR"
-       inkscape:label=""
-       transform="translate(-116.22048,-9.0169797)">
-      <path
-         sodipodi:nodetypes="ccccccccccccc"
-         id="rect12127-9-1"
-         d="m 162.99214,1024.0157 0,25.6883 2.65625,0 0,2.6582 23.03273,0 0,-2.6582 2.65748,0 0,-25.6883 -2.65748,0 0,7.0867 -23.03273,0 0.001,-7.0867 z"
-         style="fill:#f1f3e6;fill-opacity:1;stroke:none;stroke-width:0;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         inkscape:connector-curvature="0" />
-      <rect
-         style="fill:#d6d1b8;fill-opacity:1;stroke:none;stroke-width:0;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect12129-7-6-6-4-5"
-         width="2.6574802"
-         height="2.6574802"
-         x="168.30618"
-         y="1049.7045" />
-      <rect
-         style="fill:#d6d1b8;fill-opacity:1;stroke:none;stroke-width:0;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect12129-7-6-6-5-9-0"
-         width="2.6574802"
-         height="2.6574802"
-         x="168.30618"
-         y="1031.1021" />
-      <rect
-         style="fill:#d6d1b8;fill-opacity:1;stroke:none;stroke-width:0;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect12129-7-6-6-58-4-5"
-         width="2.6574802"
-         height="2.6574802"
-         x="183.36617"
-         y="1031.1021" />
-      <rect
-         style="fill:#aca895;fill-opacity:1;stroke:none;stroke-width:0;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect12129-7-6-6-2-6-8"
-         width="2.6574802"
-         height="15.059055"
-         x="183.36617"
-         y="1033.7595" />
-      <rect
-         style="fill:#aca895;fill-opacity:1;stroke:none;stroke-width:0;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect12129-7-6-6-2-8-5-9"
-         width="2.6574802"
-         height="15.059055"
-         x="168.30618"
-         y="1033.7595" />
-      <rect
-         style="fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:0;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect12129-7-6-6-5-1-4-2"
-         width="2.8346457"
-         height="10.629653"
-         x="171.8504"
-         y="1020.4724" />
-      <rect
-         style="fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:0;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect12129-7-6-6-5-3-6-4"
-         width="2.8346457"
-         height="10.629653"
-         x="179.64568"
-         y="1020.4724" />
-    </g>
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer6"
-     inkscape:label="Labels"
-     style="display:inline"
-     transform="translate(0,21.401518)"
-     sodipodi:insensitive="true">
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.50000048px;line-height:125%;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="62.970779"
-       y="73.448616"
-       id="text7809"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan7811"
-         x="62.970779"
-         y="73.448616"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.50000048px;line-height:125%;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff">SODAQ</tspan><tspan
-         sodipodi:role="line"
-         x="62.970779"
-         y="82.823616"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.50000048px;line-height:125%;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff"
-         id="tspan4479">Autonomo</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.5px;line-height:125%;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="66.96666"
-       y="137.51648"
-       id="Label_LED1"
-       sodipodi:linespacing="125%"
-       inkscape:label=""><tspan
-         sodipodi:role="line"
-         id="tspan4588"
-         x="66.96666"
-         y="137.51648"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.75000024px;line-height:125%;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle">LED1</tspan></text>
-    <text
-       sodipodi:linespacing="125%"
-       id="Label_SJ7"
-       y="33.840488"
-       x="89.414345"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.875px;line-height:125%;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       xml:space="preserve"
-       inkscape:label=""><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.50000024px;line-height:125%;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1"
-         y="33.840488"
-         x="89.414345"
-         id="tspan11083"
-         sodipodi:role="line">SJ3</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.5px;line-height:125%;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="54.991898"
-       y="146.9032"
-       id="Label_LED2"
-       sodipodi:linespacing="125%"
-       inkscape:label=""><tspan
-         sodipodi:role="line"
-         id="tspan4588-8"
-         x="54.991898"
-         y="146.9032"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.75000024px;line-height:125%;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle">LED2</tspan></text>
-    <g
        id="ATSAMD21J18"
        inkscape:label=""
        transform="matrix(0,1,-0.99999999,0,189.9284,-118.13687)">
@@ -1417,6 +1051,373 @@
              y="231.02832">ATSAMD21J18</tspan></text>
       </g>
     </g>
+  </g>
+  <g
+     inkscape:label="Connectors"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-818.36227)"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <g
+       id="JP_LIPO"
+       inkscape:label=""
+       transform="translate(0,-9.0170001)">
+      <path
+         sodipodi:nodetypes="ccccccccccccc"
+         id="rect12127-9"
+         d="m 15.944883,1024.0157 10e-7,25.6883 2.65625,0 0,2.6582 23.032727,0 0,-2.6582 2.657481,0 0,-25.6883 -2.657481,0 0,7.0867 -23.032727,0 0.0012,-7.0867 z"
+         style="fill:#f1f3e6;fill-opacity:1;stroke:none;stroke-width:0;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <rect
+         style="fill:#d6d1b8;fill-opacity:1;stroke:none;stroke-width:0;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect12129-7-6-6-4"
+         width="2.6574802"
+         height="2.6574802"
+         x="21.258928"
+         y="1049.7045" />
+      <rect
+         style="fill:#d6d1b8;fill-opacity:1;stroke:none;stroke-width:0;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect12129-7-6-6-5-9"
+         width="2.6574802"
+         height="2.6574802"
+         x="21.258928"
+         y="1031.1021" />
+      <rect
+         style="fill:#d6d1b8;fill-opacity:1;stroke:none;stroke-width:0;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect12129-7-6-6-58-4"
+         width="2.6574802"
+         height="2.6574802"
+         x="36.318901"
+         y="1031.1021" />
+      <rect
+         style="fill:#aca895;fill-opacity:1;stroke:none;stroke-width:0;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect12129-7-6-6-2-6"
+         width="2.6574802"
+         height="15.059055"
+         x="36.318901"
+         y="1033.7595" />
+      <rect
+         style="fill:#aca895;fill-opacity:1;stroke:none;stroke-width:0;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect12129-7-6-6-2-8-5"
+         width="2.6574802"
+         height="15.059055"
+         x="21.258928"
+         y="1033.7595" />
+      <rect
+         style="fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:0;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect12129-7-6-6-5-1-4"
+         width="2.8346457"
+         height="10.629653"
+         x="24.803152"
+         y="1020.4724" />
+      <rect
+         style="fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:0;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect12129-7-6-6-5-3-6"
+         width="2.8346457"
+         height="10.629653"
+         x="32.598427"
+         y="1020.4724" />
+    </g>
+    <g
+       style="display:inline"
+       id="MICRO-USB_B"
+       transform="matrix(-1.2360015,0,0,0.93718454,100.96426,1028.9788)"
+       inkscape:label="">
+      <g
+         id="g8589">
+        <rect
+           id="rect8591"
+           height="0.64999998"
+           width="0.98799998"
+           y="-0.052999999"
+           x="7.3260002"
+           style="fill:#666666" />
+        <rect
+           id="rect8593"
+           height="0.514"
+           width="0.088"
+           y="-0.052999999"
+           x="7.3260002"
+           style="fill:#999999" />
+      </g>
+      <g
+         id="g8595">
+        <rect
+           id="rect8597"
+           height="0.64999998"
+           width="0.99000001"
+           y="-0.052999999"
+           x="9.1709995"
+           style="fill:#666666" />
+        <rect
+           id="rect8599"
+           height="0.514"
+           width="0.088"
+           y="-0.052999999"
+           x="9.1709995"
+           style="fill:#999999" />
+      </g>
+      <g
+         id="g8601">
+        <rect
+           id="rect8603"
+           height="0.64999998"
+           width="0.99000001"
+           y="-0.052999999"
+           x="11.01"
+           style="fill:#666666" />
+        <rect
+           id="rect8605"
+           height="0.514"
+           width="0.088"
+           y="-0.052999999"
+           x="11.01"
+           style="fill:#999999" />
+      </g>
+      <g
+         id="g8607">
+        <rect
+           id="rect8609"
+           height="0.64999998"
+           width="0.99000001"
+           y="-0.052999999"
+           x="12.854"
+           style="fill:#666666" />
+        <rect
+           id="rect8611"
+           height="0.514"
+           width="0.088"
+           y="-0.052999999"
+           x="12.854"
+           style="fill:#999999" />
+      </g>
+      <g
+         id="g8613">
+        <rect
+           id="rect8615"
+           height="0.64999998"
+           width="0.99000001"
+           y="-0.052999999"
+           x="14.696"
+           style="fill:#666666" />
+        <rect
+           id="rect8617"
+           height="0.514"
+           width="0.090000004"
+           y="-0.052999999"
+           x="14.696"
+           style="fill:#999999" />
+      </g>
+      <g
+         id="g8619"
+         transform="translate(-5.5040004,-2.621032)">
+        <polygon
+           id="polygon8621"
+           points="20.887,17.319 2.205,17.319 2.1,15.675 2.1,0.314 20.944,0.314 20.944,15.489 "
+           style="fill:#b3b3b3" />
+        <rect
+           id="rect8623"
+           height="3.0409999"
+           width="1.832"
+           y="6.927"
+           x="21.143"
+           style="fill:#666666" />
+        <rect
+           id="rect8625"
+           height="3.0409999"
+           width="1.829"
+           y="6.927"
+           x="0.041000001"
+           style="fill:#666666" />
+        <rect
+           id="rect8627"
+           height="18.639"
+           width="10.29"
+           y="0.31400001"
+           x="6.362"
+           style="fill:#333333" />
+        <rect
+           id="rect8629"
+           height="1.082"
+           width="1.003"
+           y="18.135"
+           x="0.86699998"
+           style="fill:#b3b3b3" />
+        <rect
+           id="rect8631"
+           height="1.082"
+           width="0.64300001"
+           y="18.135"
+           x="1.229"
+           style="fill:#cccccc" />
+        <rect
+           id="rect8633"
+           height="1.082"
+           width="1"
+           y="18.135"
+           x="21.143"
+           style="fill:#b3b3b3" />
+        <rect
+           id="rect8635"
+           height="1.082"
+           width="0.64300001"
+           y="18.135"
+           x="21.143"
+           style="fill:#cccccc" />
+        <path
+           id="path8637"
+           d="m 17.755,0.313 0,1.633 -1.605,0 0,-1.632 -0.461,0 0,0.566 -8.363,0 0,-0.566 -0.525,0 0,1.635 -1.607,0 0,-1.636 -3.324,0 0,18.791 19.271,0 0,-18.791 -3.386,0 z M 6.801,14.17 l 0,0.813 -1.594,0 0,-0.881 C 4.781,13.824 4.5,13.342 4.5,12.795 4.5,12.197 4.719,11.69 5.208,11.426 l 0,0 0,-4.48 1.592,0 0,4.482 c 0.488,0.264 0.826,0.773 0.826,1.371 0,0.598 -0.337,1.107 -0.825,1.371 z m 10.887,0 0,0.813 -1.592,0 0,-0.881 c -0.426,-0.277 -0.707,-0.76 -0.707,-1.307 0,-0.598 0.217,-1.105 0.707,-1.369 l 0,0 0,-4.48 1.592,0 0,4.482 c 0.49,0.264 0.826,0.773 0.826,1.371 0,0.598 -0.336,1.107 -0.826,1.371 z"
+           inkscape:connector-curvature="0"
+           style="fill:#e6e6e6" />
+        <polygon
+           id="polygon8639"
+           points="3.4,0.313 2.275,19.108 1.87,19.108 1.87,0.313 "
+           style="fill:#f2f2f2" />
+        <polygon
+           id="polygon8641"
+           points="21.143,0.313 21.143,19.108 20.575,6.343 20.009,0.313 "
+           style="fill:#999999" />
+        <rect
+           id="rect8643"
+           height="0.12899999"
+           width="1.592"
+           y="6.948"
+           x="5.2069998"
+           style="fill:#cccccc" />
+        <rect
+           id="rect8645"
+           height="0.12899999"
+           width="1.59"
+           y="6.948"
+           x="16.098"
+           style="fill:#cccccc" />
+      </g>
+    </g>
+    <g
+       id="JP_SOLAR"
+       inkscape:label=""
+       transform="translate(-116.22048,-9.0169797)">
+      <path
+         sodipodi:nodetypes="ccccccccccccc"
+         id="rect12127-9-1"
+         d="m 162.99214,1024.0157 0,25.6883 2.65625,0 0,2.6582 23.03273,0 0,-2.6582 2.65748,0 0,-25.6883 -2.65748,0 0,7.0867 -23.03273,0 0.001,-7.0867 z"
+         style="fill:#f1f3e6;fill-opacity:1;stroke:none;stroke-width:0;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <rect
+         style="fill:#d6d1b8;fill-opacity:1;stroke:none;stroke-width:0;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect12129-7-6-6-4-5"
+         width="2.6574802"
+         height="2.6574802"
+         x="168.30618"
+         y="1049.7045" />
+      <rect
+         style="fill:#d6d1b8;fill-opacity:1;stroke:none;stroke-width:0;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect12129-7-6-6-5-9-0"
+         width="2.6574802"
+         height="2.6574802"
+         x="168.30618"
+         y="1031.1021" />
+      <rect
+         style="fill:#d6d1b8;fill-opacity:1;stroke:none;stroke-width:0;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect12129-7-6-6-58-4-5"
+         width="2.6574802"
+         height="2.6574802"
+         x="183.36617"
+         y="1031.1021" />
+      <rect
+         style="fill:#aca895;fill-opacity:1;stroke:none;stroke-width:0;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect12129-7-6-6-2-6-8"
+         width="2.6574802"
+         height="15.059055"
+         x="183.36617"
+         y="1033.7595" />
+      <rect
+         style="fill:#aca895;fill-opacity:1;stroke:none;stroke-width:0;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect12129-7-6-6-2-8-5-9"
+         width="2.6574802"
+         height="15.059055"
+         x="168.30618"
+         y="1033.7595" />
+      <rect
+         style="fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:0;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect12129-7-6-6-5-1-4-2"
+         width="2.8346457"
+         height="10.629653"
+         x="171.8504"
+         y="1020.4724" />
+      <rect
+         style="fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:0;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect12129-7-6-6-5-3-6-4"
+         width="2.8346457"
+         height="10.629653"
+         x="179.64568"
+         y="1020.4724" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="Labels"
+     style="display:inline"
+     transform="translate(0,21.401518)"
+     sodipodi:insensitive="true">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.50000048px;line-height:125%;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="62.970779"
+       y="73.448616"
+       id="text7809"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan7811"
+         x="62.970779"
+         y="73.448616"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.50000048px;line-height:125%;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff">SODAQ</tspan><tspan
+         sodipodi:role="line"
+         x="62.970779"
+         y="82.823616"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.50000048px;line-height:125%;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff"
+         id="tspan4479">Autonomo</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.5px;line-height:125%;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="66.96666"
+       y="137.51648"
+       id="Label_LED1"
+       sodipodi:linespacing="125%"
+       inkscape:label=""><tspan
+         sodipodi:role="line"
+         id="tspan4588"
+         x="66.96666"
+         y="137.51648"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.75000024px;line-height:125%;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle">LED1</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="Label_SJ7"
+       y="33.840488"
+       x="89.414345"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.875px;line-height:125%;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       inkscape:label=""><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.50000024px;line-height:125%;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1"
+         y="33.840488"
+         x="89.414345"
+         id="tspan11083"
+         sodipodi:role="line">SJ3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.5px;line-height:125%;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="54.991898"
+       y="146.9032"
+       id="Label_LED2"
+       sodipodi:linespacing="125%"
+       inkscape:label=""><tspan
+         sodipodi:role="line"
+         id="tspan4588-8"
+         x="54.991898"
+         y="146.9032"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.75000024px;line-height:125%;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle">LED2</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.25px;line-height:125%;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
